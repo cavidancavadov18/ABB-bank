@@ -1,0 +1,229 @@
+{
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "font": "FONT_INTER, \"FONT_INTER Fallback\"",
+  "h1": {
+    "text": "Güzəştli Şərtlərlə Tam Onlayn Nağd Kredit",
+    "size": "56px",
+    "weight": "500",
+    "color": "rgb(0, 0, 0)",
+    "family": "FONT_INTER, \"FONT_INTER Fallback\""
+  },
+  "cta": {
+    "text": "İndi sifariş et",
+    "bg": "rgb(27, 99, 237)",
+    "color": "rgb(255, 255, 255)",
+    "radius": "12px",
+    "pad": "11px 19px"
+  },
+  "sectionCount": 53,
+  "sections": [
+    {
+      "tag": "style",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 2959
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 2632
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "heading": "Güzəştli Şərtlərlə Tam Onlayn Nağd Kredit",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 6,
+      "imgs": [
+        "https://cdn.abb-bank.az/689316b85302e0ffde2e9d46ffb48279f7d446ca_63a07d9b03.png",
+        "https://cdn.abb-bank.az/689316b85302e0ffde2e9d46ffb48279f7d446ca_63a07d9b03.png",
+        "https://cdn.abb-bank.az/campaign_1be8dd5f07_1_0da8c5c62c.png",
+        "https://cdn.abb-bank.az/pul_4f02fbb414.png",
+        "https://cdn.abb-bank.az/image_3bed4cc145_ed838f246d.png",
+        "https://cdn.abb-bank.az/pul_1_058fcf91ad.png"
+      ],
+      "textLen": 7824
+    },
+    {
+      "tag": "noscript",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 160
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 57
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 845
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 43
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 715
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 3120
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 1603
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 530
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 2909
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 152
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 12981
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 151
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 3120
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 393
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 3068
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 3618
+    },
+    {
+      "tag": "script",
+      "cls": "",
+      "heading": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "imgCount": 0,
+      "imgs": [],
+      "textLen": 34
+    }
+  ],
+  "cards": []
+}

@@ -1,0 +1,610 @@
+{
+  "updated": [
+    {
+      "route": "/korporativ-teqdimat",
+      "before": 2,
+      "after": 5,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "ABB - Müasir, Faydalı, Universal"
+    },
+    {
+      "route": "/ferdi/butun-emeliyyatlar/bank-kocurmeleri",
+      "before": 3,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Bank köçürmələri"
+    },
+    {
+      "route": "/ferdi/iane-et",
+      "before": 3,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "İanə edin"
+    },
+    {
+      "route": "/haqqimizda/rekvizitler",
+      "before": 3,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Rekvizitlər"
+    },
+    {
+      "route": "/haqqimizda/istirak-payi",
+      "before": 3,
+      "after": 6,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Törəmə və asılı müəssisələrdə iştirak payı"
+    },
+    {
+      "route": "/haqqimizda/investisiya-bankciligi",
+      "before": 3,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Risklərinizi idarə edin, gəlirlərinizi qoruyun!"
+    },
+    {
+      "route": "/haqqimizda/satinalmalar/bildirisler",
+      "before": 3,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Satınalma"
+    },
+    {
+      "route": "/ferdi/kreditler/emanetci-nagd-krediti",
+      "before": 4,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Əmanət üzrə nağd kredit"
+    },
+    {
+      "route": "/ferdi/kreditler/emanetci-kredit-limiti",
+      "before": 4,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Əmanətçilər üçün kredit xətti"
+    },
+    {
+      "route": "/ferdi/emanetler/depozit-seyfi",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Depozit və əmanət seyfləri"
+    },
+    {
+      "route": "/ferdi/emanetler/emanetli-ipoteka-krediti",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Əmanət əsaslı ipoteka krediti"
+    },
+    {
+      "route": "/ferdi/randevu",
+      "before": 4,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "E-Randevu"
+    },
+    {
+      "route": "/ferdi/melumat-merkezi",
+      "before": 4,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "ABB Əlaqə - 24/7 Məlumat Mərkəzi"
+    },
+    {
+      "route": "/ferdi/arayis-sifarisi",
+      "before": 4,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Arayış sifarişi"
+    },
+    {
+      "route": "/ferdi/kredit-odenisi",
+      "before": 4,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Aylıq ödənişi edin"
+    },
+    {
+      "route": "/ferdi/karta-medaxil",
+      "before": 4,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Balans artırın"
+    },
+    {
+      "route": "/ferdi/pin-kod-deyisimi",
+      "before": 4,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "PIN kod dəyişimi"
+    },
+    {
+      "route": "/haqqimizda/senedler",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Sənədlər və Resurslar"
+    },
+    {
+      "route": "/faydali-linkler",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Faydalı linklər"
+    },
+    {
+      "route": "/haqqimizda/korporativ-sosial-mesuliyyet",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "İcmaların gücləndirilməsi: cəmiyyət qarşısında məsuliyyətimiz"
+    },
+    {
+      "route": "/standart-sertler-ve-melumatlandirma-formalari",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Standart şərtlər və məlumatlandırma formaları"
+    },
+    {
+      "route": "/haqqimizda/idareetme-ve-komiteler",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "İdarəetmə & Komitələr"
+    },
+    {
+      "route": "/haqqimizda/siyasetlerimiz",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Siyasətlərimiz"
+    },
+    {
+      "route": "/haqqimizda/arasdirma",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Araşdırma"
+    },
+    {
+      "route": "/haqqimizda/hesabatlar",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Maliyyə və korporativ hesabatlar"
+    },
+    {
+      "route": "/haqqimizda/huquqi-icmal",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Hüquqi icmal"
+    },
+    {
+      "route": "/haqqimizda/teklif-ve-iradlar",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "ABB - Müasir, Faydalı, Universal"
+    },
+    {
+      "route": "/haqqimizda/satinalmalar/musabiqelerin-elani",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Satınalma"
+    },
+    {
+      "route": "/haqqimizda/satinalmalar/baglanmis-muqavilelerin-reyestri",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Satınalma"
+    },
+    {
+      "route": "/haqqimizda/satinalmalar/satinalma-plani",
+      "before": 4,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Satınalma"
+    },
+    {
+      "route": "/haqqimizda/satinalmalar/techizatci-anketi",
+      "before": 4,
+      "after": 8,
+      "cards": 8,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Satınalma"
+    },
+    {
+      "route": "/ferdi/emanetler/klassik-emaneti",
+      "before": 5,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Yüksək faizli klassik əmanət"
+    },
+    {
+      "route": "/ferdi/kesbek/faydali-klub",
+      "before": 5,
+      "after": 9,
+      "cards": 3,
+      "faqs": 5,
+      "secs": 0,
+      "hero": true,
+      "title": "Faydalı Klub - 20%-dək keşbek"
+    },
+    {
+      "route": "/ferdi/pul-kocurmesi",
+      "before": 5,
+      "after": 9,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 1,
+      "hero": true,
+      "title": "Pul köçürmək"
+    },
+    {
+      "route": "/ferdi/cash-by-code",
+      "before": 5,
+      "after": 8,
+      "cards": 3,
+      "faqs": 1,
+      "secs": 0,
+      "hero": true,
+      "title": "Cash by Code"
+    },
+    {
+      "route": "/biznes/korporativ/kocurmeler-1/pul-kocurmeleri-1",
+      "before": 5,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Asan köçürmələr"
+    },
+    {
+      "route": "/biznes/korporativ/senedli-emeliyyatlar-1/layihelerin-maliyyelesmesi-1",
+      "before": 5,
+      "after": 9,
+      "cards": 4,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Biznes xəyallarınızı maliyyələşdirin"
+    },
+    {
+      "route": "/ferdi/butun-hesablar",
+      "before": 6,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "DigiHesab Max - hesab qalığından qazanın"
+    },
+    {
+      "route": "/ferdi/kesbek/faydali-kesbek",
+      "before": 6,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "\"Faydalı\" keşbek ilə daha çox qənaət edin"
+    },
+    {
+      "route": "/ferdi/kesbek/fayda-max",
+      "before": 6,
+      "after": 9,
+      "cards": 3,
+      "faqs": 45,
+      "secs": 0,
+      "hero": true,
+      "title": "Fayda Max təkmilləşdirilmiş keşbek"
+    },
+    {
+      "route": "/ferdi/kampaniyalar",
+      "before": 6,
+      "after": 7,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Kampaniyalar"
+    },
+    {
+      "route": "/ferdi/butun-emeliyyatlar",
+      "before": 6,
+      "after": 7,
+      "cards": 2,
+      "faqs": 1,
+      "secs": 0,
+      "hero": true,
+      "title": "DigiTransfer - asan və sürətli"
+    },
+    {
+      "route": "/biznes/korporativ/kocurmeler-1",
+      "before": 6,
+      "after": 6,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Sürətli və təhlükəsiz pul köçürmələri"
+    },
+    {
+      "route": "/ferdi/butun-hesablar/cari-hesab",
+      "before": 7,
+      "after": 8,
+      "cards": 7,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Bir neçə valyutada cari hesab"
+    },
+    {
+      "route": "/ferdi/kesbek",
+      "before": 7,
+      "after": 8,
+      "cards": 7,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Daha çox keşbek, daha çox qazanc!"
+    },
+    {
+      "route": "/ferdi/butun-emeliyyatlar/olkedaxili-ve-olkexarici-kocurmeler",
+      "before": 7,
+      "after": 8,
+      "cards": 5,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Ölkədaxili və ölkəxarici köçürmələr"
+    },
+    {
+      "route": "/abb-mobile",
+      "before": 7,
+      "after": 7,
+      "cards": 8,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "ABB mobile – Təhlükəsiz, sadə, sürətli"
+    },
+    {
+      "route": "/biznes/korporativ",
+      "before": 7,
+      "after": 7,
+      "cards": 10,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "ABB-də Korporativ Kreditlər, Kartlar, Köçürmələr"
+    },
+    {
+      "route": "/biznes/kicik-ve-orta-biznes",
+      "before": 7,
+      "after": 7,
+      "cards": 7,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Kiçik Və Orta Biznes Üçün Bank Xidmətləri"
+    },
+    {
+      "route": "/biznes/mikro-biznes",
+      "before": 7,
+      "after": 8,
+      "cards": 7,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "ABB - Müasir, Faydalı, Universal"
+    },
+    {
+      "route": "/biznes/korporativ/odenis-kartlari-1/visa-business-platinum-1",
+      "before": 7,
+      "after": 8,
+      "cards": 4,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "VISA Business Platinum"
+    },
+    {
+      "route": "/biznes/korporativ/odenis-kartlari-1/mastercard-business-1",
+      "before": 7,
+      "after": 7,
+      "cards": 4,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Mastercard Business"
+    },
+    {
+      "route": "/biznes/korporativ/odenis-kartlari-1/visa-business-1",
+      "before": 7,
+      "after": 8,
+      "cards": 4,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Visa Business"
+    },
+    {
+      "route": "/biznes/korporativ/odenis-kartlari-1/visa-business-gold-1",
+      "before": 7,
+      "after": 7,
+      "cards": 4,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "VISA Business Gold"
+    },
+    {
+      "route": "/biznes/korporativ/odenis-kartlari-1/gomruk-karti-1",
+      "before": 7,
+      "after": 7,
+      "cards": 4,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Gömrük Kartı"
+    },
+    {
+      "route": "/biznes/korporativ/senedli-emeliyyatlar-1",
+      "before": 7,
+      "after": 8,
+      "cards": 5,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Təcili tender qarantiyası"
+    },
+    {
+      "route": "/biznes/korporativ/senedli-emeliyyatlar-1/qarantiya-xetti-1",
+      "before": 7,
+      "after": 8,
+      "cards": 4,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "Qarantiya xətti"
+    },
+    {
+      "route": "/biznes/korporativ/senedli-emeliyyatlar-1/inkasso-1",
+      "before": 7,
+      "after": 8,
+      "cards": 3,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "İnkasso xidmətləri ilə təhlükəsiz ticarət!"
+    },
+    {
+      "route": "/biznes/kicik-ve-orta-biznes/islam-bankcilig",
+      "before": 7,
+      "after": 8,
+      "cards": 5,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "İslam bankçılığı"
+    },
+    {
+      "route": "/haqqimizda",
+      "before": 7,
+      "after": 7,
+      "cards": 7,
+      "faqs": 0,
+      "secs": 0,
+      "hero": true,
+      "title": "ABB - İlin bankı"
+    }
+  ],
+  "unchanged": [
+    "/biznes/korporativ/odenis-kartlari-1",
+    "/haqqimizda/muxbir-banklar"
+  ],
+  "failed": [],
+  "total": 62
+}
