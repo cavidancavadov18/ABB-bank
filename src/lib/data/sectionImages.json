@@ -1,0 +1,867 @@
+{
+  "/ferdi": {
+    "image": "https://cdn.abb-bank.az/large_sldier_Deposit_f526c8b406.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_sldier_Deposit_f526c8b406.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kreditler": {
+    "image": "https://cdn.abb-bank.az/large_kredit_Rotation0_d954fe4ee5.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_kredit_Rotation0_d954fe4ee5.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kreditler/nagd-kredit": {
+    "image": "https://cdn.abb-bank.az/large_689316b85302e0ffde2e9d46ffb48279f7d446ca_63a07d9b03.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_689316b85302e0ffde2e9d46ffb48279f7d446ca_63a07d9b03.png",
+      "https://cdn.abb-bank.az/large_kredit_Rotation0_d954fe4ee5.png",
+      "https://cdn.abb-bank.az/large_cashloan_3_3d1d162e1d.png"
+    ]
+  },
+  "/ferdi/kreditler/avans-kredit-xetti": {
+    "image": "https://cdn.abb-bank.az/large_cashloan_3_3d1d162e1d.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_cashloan_3_3d1d162e1d.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kreditler/indi-al-sonra-ode": {
+    "image": "https://cdn.abb-bank.az/large_Vizual1_digi_c20e9959ba.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Vizual1_digi_c20e9959ba.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kreditler/avtomobil-krediti": {
+    "image": "https://cdn.abb-bank.az/v30000_1_88847b9b69.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/v30000_1_88847b9b69.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kreditler/emanetci-nagd-krediti": {
+    "image": "https://cdn.abb-bank.az/large_komissiyasiz_m_daxil_f69d5973e9.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_komissiyasiz_m_daxil_f69d5973e9.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kreditler/emanetci-kredit-limiti": {
+    "image": "https://cdn.abb-bank.az/large_Loan_f_deposit_1_fa46de8ab1.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Loan_f_deposit_1_fa46de8ab1.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kreditler/ipoteka-krediti": {
+    "image": "https://cdn.abb-bank.az/quick_action_de1924bd9a.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/quick_action_de1924bd9a.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kartlar": {
+    "image": "https://cdn.abb-bank.az/large_Tam_Digi_Card_1_VISA_fe324fd4bc.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Tam_Digi_Card_1_VISA_fe324fd4bc.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kartlar/kredit-kartlari": {
+    "image": "https://cdn.abb-bank.az/large_Tam_Digi_Card_1_VISA_fe324fd4bc.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Tam_Digi_Card_1_VISA_fe324fd4bc.png"
+    ]
+  },
+  "/ferdi/kartlar/debet-kartlari": {
+    "image": "https://cdn.abb-bank.az/large_Digitam_visa_vizual_03568ac997.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Digitam_visa_vizual_03568ac997.png"
+    ]
+  },
+  "/ferdi/emanetler": {
+    "image": "https://cdn.abb-bank.az/large_sldier_Deposit_f526c8b406.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_sldier_Deposit_f526c8b406.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/emanetler/digideposit": {
+    "image": "https://cdn.abb-bank.az/large_Digi_Deposit_step1_2_e311ac4618.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_2_e311ac4618.png",
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step2_2_5b632be05a.png",
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step3_2_0bfacd980f.png",
+      "https://cdn.abb-bank.az/large_deposit_insurance_terms_1_1_1c7825c242.png"
+    ]
+  },
+  "/ferdi/emanetler/klassik-emaneti": {
+    "image": "https://cdn.abb-bank.az/large_deposit_insurance_terms_2_1_36d6e52e1e.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_deposit_insurance_terms_2_1_36d6e52e1e.png"
+    ]
+  },
+  "/ferdi/emanetler/usaq-yigim-emaneti": {
+    "image": "https://cdn.abb-bank.az/large_kids_Deposit_ac56ec8f53.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_kids_Deposit_ac56ec8f53.png",
+      "https://cdn.abb-bank.az/large_deposit_insurance_terms_1_1_1c7825c242.png"
+    ]
+  },
+  "/ferdi/emanetler/depozit-seyfi": {
+    "image": "https://cdn.abb-bank.az/large_Deposit_purple0000_2_1_a7e73c0a10_243da87f0f.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Deposit_purple0000_2_1_a7e73c0a10_243da87f0f.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/emanetler/emanetli-ipoteka-krediti": {
+    "image": "https://cdn.abb-bank.az/quick_action_de1924bd9a.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/quick_action_de1924bd9a.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/butun-hesablar": {
+    "image": "https://cdn.abb-bank.az/large_Deposit_purple0000_2_1_a7e73c0a10_243da87f0f.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Deposit_purple0000_2_1_a7e73c0a10_243da87f0f.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/butun-hesablar/digihesab-max": {
+    "image": "https://cdn.abb-bank.az/large_Digi_Deposit_step1_6_8f18c28f1e.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_6_8f18c28f1e.png",
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_7_3f8755fe7c.png",
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_8_e0cf835720.png"
+    ]
+  },
+  "/ferdi/butun-hesablar/digihesab": {
+    "image": "https://cdn.abb-bank.az/large_Digi_Deposit_step1_6_2c6ab534a9.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_6_2c6ab534a9.png",
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_7_bcc7d26647.png",
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_8_3c40db06fe.png"
+    ]
+  },
+  "/ferdi/butun-hesablar/cari-hesab": {
+    "image": "https://cdn.abb-bank.az/large_Deposit_purple0000_2_1_a7e73c0a10_243da87f0f.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Deposit_purple0000_2_1_a7e73c0a10_243da87f0f.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/butun-hesablar/dama-dama": {
+    "image": "https://cdn.abb-bank.az/large_Loan_f_deposit_1_fa46de8ab1.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Loan_f_deposit_1_fa46de8ab1.png",
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_6_52b3aeccab.png",
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_7_afa96e7809.png",
+      "https://cdn.abb-bank.az/large_Digi_Deposit_step1_8_819beb18ea.png"
+    ]
+  },
+  "/ferdi/kesbek": {
+    "image": "https://cdn.abb-bank.az/D_app_5_0eca73b01a.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/D_app_5_0eca73b01a.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kesbek/faydali-kesbek": {
+    "image": "https://cdn.abb-bank.az/D_app_5_0eca73b01a.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/D_app_5_0eca73b01a.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kesbek/fayda-max": {
+    "image": "https://cdn.abb-bank.az/master_8ec815b00f.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/master_8ec815b00f.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kesbek/faydali-klub": {
+    "image": "https://cdn.abb-bank.az/large_image_204956752_845ec35044.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_204956752_845ec35044.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kampaniyalar": {
+    "image": "https://cdn.abb-bank.az/large_masterliqa_sayt_c53782fec8.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_masterliqa_sayt_c53782fec8.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/butun-emeliyyatlar": {
+    "image": "https://cdn.abb-bank.az/large_service_82020ab072.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_service_82020ab072.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/butun-emeliyyatlar/olkedaxili-ve-olkexarici-kocurmeler": {
+    "image": "https://cdn.abb-bank.az/large_service_658cbbc816.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_service_658cbbc816.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/butun-emeliyyatlar/bank-kocurmeleri": {
+    "image": "https://cdn.abb-bank.az/large_service_f4855cf540_2_fd8767cbde.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_service_f4855cf540_2_fd8767cbde.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/randevu": {
+    "image": "https://cdn.abb-bank.az/large_service_658cbbc816.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_service_658cbbc816.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/digitravel": {
+    "image": "https://cdn.abb-bank.az/large_Mask_group_90c1fb8f04.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Mask_group_90c1fb8f04.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/melumat-merkezi": {
+    "image": "https://cdn.abb-bank.az/large_service_f4855cf540_2_fd8767cbde.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_service_f4855cf540_2_fd8767cbde.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/arayis-sifarisi": {
+    "image": "https://cdn.abb-bank.az/image_506_edd0057a05.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/image_506_edd0057a05.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/kredit-odenisi": {
+    "image": "https://cdn.abb-bank.az/sayt_183b93695e.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/sayt_183b93695e.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/karta-medaxil": {
+    "image": "https://cdn.abb-bank.az/large_komissiyasiz_m_daxil_f69d5973e9.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_komissiyasiz_m_daxil_f69d5973e9.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/pul-kocurmesi": {
+    "image": "https://cdn.abb-bank.az/large_service_82020ab072.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_service_82020ab072.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/cash-by-code": {
+    "image": "https://cdn.abb-bank.az/infobank_1_88c9dffdcd.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/infobank_1_88c9dffdcd.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/iane-et": {
+    "image": "https://cdn.abb-bank.az/image_506_edd0057a05.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/image_506_edd0057a05.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/pin-kod-deyisimi": {
+    "image": "https://cdn.abb-bank.az/ABB_mobile0000_1_2_b8cca87be8.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/ABB_mobile0000_1_2_b8cca87be8.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/sigorta": {
+    "image": "https://cdn.abb-bank.az/large_deposit_insurance_terms_2_1_36d6e52e1e.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_deposit_insurance_terms_2_1_36d6e52e1e.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/investisiya": {
+    "image": "https://cdn.abb-bank.az/quick_action_f917461d10.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/quick_action_f917461d10.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/abb-mobile-odenisler": {
+    "image": "https://cdn.abb-bank.az/large_Banner_AZ_2_d9c919d797.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Banner_AZ_2_d9c919d797.png",
+      "https://cdn.abb-bank.az/large_sldier2_89d5a32c73.png"
+    ]
+  },
+  "/ferdi/xidmet-sebekesi": {
+    "image": "https://cdn.abb-bank.az/63_1_a8fb2ffbb8.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/63_1_a8fb2ffbb8.png"
+    ]
+  },
+  "/abb-mobile": {
+    "image": "https://cdn.abb-bank.az/large_Banner_ABB_Mobile_AZ_f87088c4b1.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Banner_ABB_Mobile_AZ_f87088c4b1.png",
+      "https://cdn.abb-bank.az/large_kids_icon2_1_a6d1e0b696.png",
+      "https://cdn.abb-bank.az/kredit_7e5b578d67.png",
+      "https://cdn.abb-bank.az/Digi_Travel_full_BG_9ff7f1575c.png",
+      "https://cdn.abb-bank.az/large_kids_icon2_1_a6d1e0b696.png"
+    ]
+  },
+  "/abb-esim": {
+    "image": "https://cdn.abb-bank.az/large_header_mockup_az_e6e36f288d.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_header_mockup_az_e6e36f288d.png",
+      "https://cdn.abb-bank.az/image_506_edd0057a05.png",
+      "https://cdn.abb-bank.az/large_header_mockup_az_e6e36f288d.png",
+      "https://cdn.abb-bank.az/D_rhal_aktivl_sm_24e64e7e26.png",
+      "https://cdn.abb-bank.az/Qlobal_internet_baglantisi_9ac5db1ac5.png"
+    ]
+  },
+  "/faydali-linkler": {
+    "image": "https://cdn.abb-bank.az/large_image_cd12ec623d.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_cd12ec623d.png",
+      "https://cdn.abb-bank.az/image_506_edd0057a05.png",
+      "https://cdn.abb-bank.az/large_image_cd12ec623d.png",
+      "https://cdn.abb-bank.az/small_image_cd12ec623d.png",
+      "https://cdn.abb-bank.az/thumbnail_image_cd12ec623d.png"
+    ]
+  },
+  "/biznes": {
+    "image": "https://cdn.abb-bank.az/large_islam_banciligi_dcf52b780c.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Vizual1_digi_c20e9959ba.png",
+      "https://cdn.abb-bank.az/large_fly_Desk_slider_dd442dbcc5.png",
+      "https://cdn.abb-bank.az/image_29_removebg_preview_11e164fe95.png",
+      "https://cdn.abb-bank.az/large_t_e_slider_c6bea7a54a.png",
+      "https://cdn.abb-bank.az/large_Qarantiya_slider_3e2596ce5f.png",
+      "https://cdn.abb-bank.az/api_slider_3d3fe82a07.png",
+      "https://cdn.abb-bank.az/large_003d6960_8683_4d7c_a2c4_4958bcb79101_2_d4d3d43b4c.png",
+      "https://cdn.abb-bank.az/Mask_group_1_93144fa0c6.png",
+      "https://cdn.abb-bank.az/image_3_8240fb2288.png",
+      "https://cdn.abb-bank.az/Mask_group_1_824ecdf9c9.png",
+      "https://cdn.abb-bank.az/visual_10bf9d6787.png",
+      "https://cdn.abb-bank.az/63_1_aa2c9b7dfb.png",
+      "https://cdn.abb-bank.az/t_chizat_z_nciri_d4075ff9b8.png",
+      "https://cdn.abb-bank.az/63_1_a9b1d902b8.png",
+      "https://cdn.abb-bank.az/63_1_e851a1845b.png",
+      "https://cdn.abb-bank.az/63_1_6d4111e19e.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ": {
+    "image": "https://cdn.abb-bank.az/large_islam_banciligi_dcf52b780c.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Vizual1_digi_c20e9959ba.png",
+      "https://cdn.abb-bank.az/63_1_e851a1845b.png",
+      "https://cdn.abb-bank.az/large_fly_Desk_slider_dd442dbcc5.png",
+      "https://cdn.abb-bank.az/image_29_removebg_preview_11e164fe95.png",
+      "https://cdn.abb-bank.az/large_t_e_slider_c6bea7a54a.png",
+      "https://cdn.abb-bank.az/large_Qarantiya_slider_3e2596ce5f.png",
+      "https://cdn.abb-bank.az/api_slider_3d3fe82a07.png",
+      "https://cdn.abb-bank.az/large_003d6960_8683_4d7c_a2c4_4958bcb79101_2_d4d3d43b4c.png",
+      "https://cdn.abb-bank.az/Mask_group_1_93144fa0c6.png",
+      "https://cdn.abb-bank.az/image_3_8240fb2288.png",
+      "https://cdn.abb-bank.az/Mask_group_1_824ecdf9c9.png",
+      "https://cdn.abb-bank.az/visual_10bf9d6787.png",
+      "https://cdn.abb-bank.az/63_1_aa2c9b7dfb.png",
+      "https://cdn.abb-bank.az/t_chizat_z_nciri_d4075ff9b8.png",
+      "https://cdn.abb-bank.az/63_1_a9b1d902b8.png",
+      "https://cdn.abb-bank.az/63_1_6d4111e19e.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/korporativ-kreditler": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_c7532e173e.png",
+      "https://cdn.abb-bank.az/large_image_85eadaf5e6.png",
+      "https://cdn.abb-bank.az/large_image_841ad40440.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/odenis-kartlari-1": {
+    "image": "https://cdn.abb-bank.az/large_Kartlar_boelm_si_bb8787e79c.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_full_visa_business_platinum_a2e4d81882.png",
+      "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+      "https://cdn.abb-bank.az/large_travel_and_expense_aaf6e63753.png",
+      "https://cdn.abb-bank.az/large_desktop_4a66a89e90.png",
+      "https://cdn.abb-bank.az/large_desktop_a3a85df2d6.png",
+      "https://cdn.abb-bank.az/large_desktop_15d0b84d39.png",
+      "https://cdn.abb-bank.az/large_customs_card_1d10901c06.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/hesablar-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_92644f8514.png",
+      "https://cdn.abb-bank.az/flag_aze_04513db938.png",
+      "https://cdn.abb-bank.az/united_states_e5c3da2652.png",
+      "https://cdn.abb-bank.az/united_kingdom_afa6e4d494.png",
+      "https://cdn.abb-bank.az/switzerland_d36bddf77b.png",
+      "https://cdn.abb-bank.az/canada_3ac3f4b463.png",
+      "https://cdn.abb-bank.az/japan_780e0e4ef4.png",
+      "https://cdn.abb-bank.az/russia_7248644da5.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/kocurmeler-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_3ddb448be2.png",
+      "https://cdn.abb-bank.az/large_image_8_8ef6aecd60.png",
+      "https://cdn.abb-bank.az/large_image_9_14cffe7fcc.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/senedli-emeliyyatlar-1": {
+    "image": "https://cdn.abb-bank.az/large_image_0fad93a42d.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_desktop_1ebde62287.png",
+      "https://cdn.abb-bank.az/large_image_1929cebbda.png",
+      "https://cdn.abb-bank.az/large_desktop_c029a99e2a.png",
+      "https://cdn.abb-bank.az/large_image_ffd48f5e9e.png",
+      "https://cdn.abb-bank.az/large_image_61c8af1e94.png"
+    ],
+    "logos": []
+  },
+  "/biznes/kicik-ve-orta-biznes": {
+    "image": "https://cdn.abb-bank.az/large_Vizual1_digi_c20e9959ba.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_sme_slider_qaranntiya_9ab3197aac.png",
+      "https://cdn.abb-bank.az/large_islam_banciligi_dcf52b780c.png",
+      "https://cdn.abb-bank.az/large_ani_kredit_slider_cbe07fbc00.png",
+      "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+      "https://cdn.abb-bank.az/large_image_31_98a23f294a.png",
+      "https://cdn.abb-bank.az/large_usaqyigium1_38169c9ca3.png",
+      "https://cdn.abb-bank.az/Image_23f5aa4748.png",
+      "https://cdn.abb-bank.az/Image_6207bf1d42.png",
+      "https://cdn.abb-bank.az/Image_d444a60620.png",
+      "https://cdn.abb-bank.az/Image_4195814d26.png",
+      "https://cdn.abb-bank.az/large_003d6960_8683_4d7c_a2c4_4958bcb79101_2_01bb7f1364.png",
+      "https://cdn.abb-bank.az/image_3_bcb0e523ba.png",
+      "https://cdn.abb-bank.az/depozit_80f5a09b06.png",
+      "https://cdn.abb-bank.az/Mask_group_1_0e04f3fc66.png",
+      "https://cdn.abb-bank.az/63_1_e851a1845b.png",
+      "https://cdn.abb-bank.az/63_1_a9b1d902b8.png"
+    ],
+    "logos": []
+  },
+  "/biznes/kicik-ve-orta-biznes/islam-bankcilig": {
+    "image": "https://cdn.abb-bank.az/large_islam_banciligi_dcf52b780c.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+      "https://cdn.abb-bank.az/Image_f87db6b453.png",
+      "https://cdn.abb-bank.az/image_9_cc2979b064.png",
+      "https://cdn.abb-bank.az/image_7_92f58157ab.png",
+      "https://cdn.abb-bank.az/image_4_1_99ba05f8f6.png"
+    ],
+    "logos": []
+  },
+  "/biznes/mikro-biznes": {
+    "image": "https://cdn.abb-bank.az/large_Vizual1_digi_c20e9959ba.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_12_5c134b7e21.png",
+      "https://cdn.abb-bank.az/large_53b56942c141a5414464687387d65f0edb23f859_849e4e0e35.png",
+      "https://cdn.abb-bank.az/large_image_204956800_88e463ecb3.png",
+      "https://cdn.abb-bank.az/large_Mask_group_b1251b2121.png",
+      "https://cdn.abb-bank.az/large_usaqyigium1_38169c9ca3.png",
+      "https://cdn.abb-bank.az/Image_3d2620bca6.png",
+      "https://cdn.abb-bank.az/Image_19db47b7ad.png",
+      "https://cdn.abb-bank.az/Image_9479010a19.png",
+      "https://cdn.abb-bank.az/Image_ee58a1f3ef.png",
+      "https://cdn.abb-bank.az/large_003d6960_8683_4d7c_a2c4_4958bcb79101_2_5dcbdcbc42.png",
+      "https://cdn.abb-bank.az/Frame_2131330011_b5b40ba7dd.png",
+      "https://cdn.abb-bank.az/Component_2_02a34e14b2.png",
+      "https://cdn.abb-bank.az/Component_2_d1af385d17.png",
+      "https://cdn.abb-bank.az/t_chizat_z_nciri_d4075ff9b8.png",
+      "https://cdn.abb-bank.az/quick_action_00d52be2e2.png",
+      "https://cdn.abb-bank.az/quick_action_eb343b96fa.png"
+    ],
+    "logos": []
+  },
+  "/haqqimizda": {
+    "image": "https://cdn.abb-bank.az/large_Vizual1_digi_c20e9959ba.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_legal_Aboutus_e713fb6ed8.png",
+      "https://cdn.abb-bank.az/large_image_15_c92f5ef275.png",
+      "https://cdn.abb-bank.az/Brand_Center_6606c5466a.png",
+      "https://cdn.abb-bank.az/Image_f97c0e3819.png",
+      "https://cdn.abb-bank.az/image_204956813_a01e7de892.png",
+      "https://cdn.abb-bank.az/MISSION_and_Strategic_vision_new_png_d8e22a80c4.png",
+      "https://cdn.abb-bank.az/Social_Responsibility_and_Sponsorship_new_9de98da8b0.png",
+      "https://cdn.abb-bank.az/Financial_and_Corporate_Reports_new_efc622bd3d.png",
+      "https://cdn.abb-bank.az/large_usaqyigium1_38169c9ca3.png",
+      "https://cdn.abb-bank.az/sayt_183b93695e.png",
+      "https://cdn.abb-bank.az/large_Procurement_5abd94f831.png",
+      "https://cdn.abb-bank.az/Policy_4637439bbc.png",
+      "https://cdn.abb-bank.az/News_65eb2961b9.png",
+      "https://cdn.abb-bank.az/Documents_b19c5dfdeb.png",
+      "https://cdn.abb-bank.az/Research_be4da6ae2b.png",
+      "https://cdn.abb-bank.az/Top_Employer_png_e23a2d5cc8.png",
+      "https://cdn.abb-bank.az/Local_Bank_png_b70acd56ce.png",
+      "https://cdn.abb-bank.az/Best_Bank_In_Azerbaijan_png_9f4a328edf.png",
+      "https://cdn.abb-bank.az/Insights_and_Research_new_850ef1d58c.png"
+    ],
+    "logos": []
+  },
+  "/haqqimizda/rekvizitler": {
+    "image": "https://cdn.abb-bank.az/large_Requisites_172e1d9da0.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/missiya-ve-strateji-baxis": {
+    "image": "https://cdn.abb-bank.az/Strategic_Goal_270ed273b8.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/MISSION_and_Strategic_vision_new_png_1b9eed3e3a.png",
+      "https://cdn.abb-bank.az/image_5_33b70eaced.png",
+      "https://cdn.abb-bank.az/image_7_6b643b22c3.png",
+      "https://cdn.abb-bank.az/image_4_7a49ff377e.png",
+      "https://cdn.abb-bank.az/image_6_0f38eea37e.png",
+      "https://cdn.abb-bank.az/image_9_d915db945a.png",
+      "https://cdn.abb-bank.az/image_3_7b448a1fc0.png",
+      "https://cdn.abb-bank.az/image_8_28985ffe76.png",
+      "https://cdn.abb-bank.az/Mission_new_987a0512a0.png",
+      "https://cdn.abb-bank.az/Vision_new_0731f1c143.png"
+    ],
+    "logos": []
+  },
+  "/haqqimizda/korporativ-sosial-mesuliyyet": {
+    "image": "https://cdn.abb-bank.az/Social_Responsibility_and_Sponsorship_hero_new_png_0ae68fdce1.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/muxbir-banklar": {
+    "image": "https://cdn.abb-bank.az/large_Strengthening_Partnerships_with_Correspondent_Banks_92ff3b4fcf.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/united_kingdom_afa6e4d494.png",
+      "https://cdn.abb-bank.az/united_states_e5c3da2652.png",
+      "https://cdn.abb-bank.az/russia_7248644da5.png",
+      "https://cdn.abb-bank.az/Turkiye_b9348843fa.png",
+      "https://cdn.abb-bank.az/germany_cab2a83151.png",
+      "https://cdn.abb-bank.az/Isvecr_20fd8dbc80.png",
+      "https://cdn.abb-bank.az/Qazaxistan_a8334814d5.png",
+      "https://cdn.abb-bank.az/china_a7be12836a.png",
+      "https://cdn.abb-bank.az/077_france_d22d6b764d.png",
+      "https://cdn.abb-bank.az/Group_771ec45ba6.png",
+      "https://cdn.abb-bank.az/195_netherlands_7ba7078396.png"
+    ],
+    "logos": []
+  },
+  "/haqqimizda/istirak-payi": {
+    "image": "https://cdn.abb-bank.az/large_Our_ownership_in_subsidiaries_and_associate_companies_3186685e14.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/mukafatlar": {
+    "image": "https://cdn.abb-bank.az/large_image_15_c92f5ef275.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/Image_f97c0e3819.png",
+      "https://cdn.abb-bank.az/Top_Employer_png_e23a2d5cc8.png",
+      "https://cdn.abb-bank.az/Local_Bank_png_b70acd56ce.png",
+      "https://cdn.abb-bank.az/Best_Bank_In_Azerbaijan_png_9f4a328edf.png"
+    ],
+    "logos": []
+  },
+  "/haqqimizda/rehberlik": {
+    "image": "https://cdn.abb-bank.az/large_rehberlik_Abbas_Ibrahimov_0412c73e4e.jpg",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Governance_and_Committees_10a92e708d.png",
+      "https://cdn.abb-bank.az/large_Ulvi_muellim_e85323d47e.PNG",
+      "https://cdn.abb-bank.az/large_Agshin_Amirov_c2dd0a12b7.jpg",
+      "https://cdn.abb-bank.az/large_Elmir_H_69408cb732.jpg",
+      "https://cdn.abb-bank.az/large_Nabi_Aliyev_aebde76d13.jpg",
+      "https://cdn.abb-bank.az/large_Taleh_Tahirli_1a6976be3f.jpg",
+      "https://cdn.abb-bank.az/large_Vasif_Ahmadov_0530aac38d.jpg",
+      "https://cdn.abb-bank.az/large_Nargizxanim_Bilandarli_fe03866ea2.jpg",
+      "https://cdn.abb-bank.az/large_Aynurr_Suleymanli_b91b403cf0.jpg",
+      "https://cdn.abb-bank.az/large_Nihat_Shenyuva_a556dec63b.jpg",
+      "https://cdn.abb-bank.az/large_Anar_Abbasov_33aff09dcd.jpg",
+      "https://cdn.abb-bank.az/large_Fuad_Islamov_3b02d5faae.jpg"
+    ],
+    "logos": []
+  },
+  "/haqqimizda/idareetme-ve-komiteler": {
+    "image": "https://cdn.abb-bank.az/large_Governance_and_Committees_ca213fc345.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/senedler": {
+    "image": "https://cdn.abb-bank.az/large_Documents_and_Resources_b54f4a575b.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/siyasetlerimiz": {
+    "image": "https://cdn.abb-bank.az/large_image_3be6a56774.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/arasdirma": {
+    "image": "https://cdn.abb-bank.az/large_Insight_Research_Hero_299765cba6.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/hesabatlar": {
+    "image": "https://cdn.abb-bank.az/large_Financial_and_Corporate_Reports_Hero_866225921f.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/huquqi-icmal": {
+    "image": "https://cdn.abb-bank.az/large_legal_ccf88e8a48.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/teklif-ve-iradlar": {
+    "image": "https://cdn.abb-bank.az/large_image_15_c92f5ef275.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/investisiya-bankciligi": {
+    "image": "https://cdn.abb-bank.az/large_Requisites_172e1d9da0.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/brend-merkezi": {
+    "image": "https://cdn.abb-bank.az/large_ABB_logo_1_black_920a2db518.jpg",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Meet_the_Brandbook_665e61a7eb.png",
+      "https://cdn.abb-bank.az/Brand_Center_19a7c68c03.png",
+      "https://cdn.abb-bank.az/Universal_9059c05976.png",
+      "https://cdn.abb-bank.az/Beneficial_3d2cca4325.png",
+      "https://cdn.abb-bank.az/Modern_ceed3a4cea.png",
+      "https://cdn.abb-bank.az/1625582479_logo_yaziile_0e78b98cef.png"
+    ],
+    "logos": [
+      "https://cdn.abb-bank.az/large_ABB_logo_1_black_920a2db518.jpg",
+      "https://cdn.abb-bank.az/1625582479_logo_yaziile_0e78b98cef.png"
+    ]
+  },
+  "/haqqimizda/satinalmalar/musabiqelerin-elani": {
+    "image": "https://cdn.abb-bank.az/large_Documents_and_Resources_b54f4a575b.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/korporativ-teqdimat": {
+    "image": "https://cdn.abb-bank.az/large_Meet_the_Brandbook_665e61a7eb.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/standart-sertler-ve-melumatlandirma-formalari": {
+    "image": "https://cdn.abb-bank.az/large_Documents_and_Resources_b54f4a575b.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/investorlarla-elaqe": {
+    "image": "https://cdn.abb-bank.az/large_image_22_76a3860079.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_22_76a3860079.png",
+      "https://cdn.abb-bank.az/large_istigraz_yekunlasma_Artboard_2_087d55cd59.png",
+      "https://cdn.abb-bank.az/image_506_edd0057a05.png",
+      "https://cdn.abb-bank.az/large_image_22_76a3860079.png"
+    ]
+  },
+  "/biznes/korporativ/korporativ-kreditler/iri-korporativ-musterilerin-kreditlesdirilmesi": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_f65c84e9e9.png",
+      "https://cdn.abb-bank.az/large_mebleg_3a69b7f696.png",
+      "https://cdn.abb-bank.az/large_valyuta_7d97303fd4.png",
+      "https://cdn.abb-bank.az/large_odenish_1799966af8.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/korporativ-kreditler/ixraca-destek-krediti": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_7720738034.png",
+      "https://cdn.abb-bank.az/large_guzestli_b725c949ab.png",
+      "https://cdn.abb-bank.az/large_0_faiz_komissiya_66ffb4c84c.png",
+      "https://cdn.abb-bank.az/large_50_fazi_endirim_a106538fe8.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/odenis-kartlari-1/visa-business-platinum-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_e6ec01e32e.png",
+      "https://cdn.abb-bank.az/large_image_232cbff81e.png",
+      "https://cdn.abb-bank.az/large_image_c5eff692b2.png",
+      "https://cdn.abb-bank.az/large_image_21f74298cb.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/odenis-kartlari-1/mastercard-corporate-travel-expense": {
+    "image": "https://cdn.abb-bank.az/large_business_and_travel_management_89f5dd0cdd.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+      "https://cdn.abb-bank.az/large_Travel_and_expense_Hero_e2e30310f4.png",
+      "https://cdn.abb-bank.az/large_acceptable_anywhere_c8373f1201.png",
+      "https://cdn.abb-bank.az/large_online_and_cashless_709357ae1d.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/odenis-kartlari-1/mastercard-business-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_4768871ed9.png",
+      "https://cdn.abb-bank.az/large_image_364d9920ee.png",
+      "https://cdn.abb-bank.az/large_image_c5eff692b2.png",
+      "https://cdn.abb-bank.az/large_image_21f74298cb.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/odenis-kartlari-1/visa-business-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_10244ed913.png",
+      "https://cdn.abb-bank.az/large_image_0fe6878fc3.png",
+      "https://cdn.abb-bank.az/large_image_bc4b7cf48c.png",
+      "https://cdn.abb-bank.az/large_image_c5eff692b2.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/odenis-kartlari-1/visa-business-gold-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_87108f2abc.png",
+      "https://cdn.abb-bank.az/large_image_f220ee3747.png",
+      "https://cdn.abb-bank.az/large_image_62c6c148a4.png",
+      "https://cdn.abb-bank.az/large_image_b81f0f5f7b.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/odenis-kartlari-1/gomruk-karti-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_3e29fddf65.png",
+      "https://cdn.abb-bank.az/large_onlayn_payment_1902a79da1.png",
+      "https://cdn.abb-bank.az/large_personalizasiya_c40eaa9508.png",
+      "https://cdn.abb-bank.az/large_sifaris_e35ef251c2.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/odenis-kartlari-1/emekhaqqi-kartlari-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_hero_e0ac2fbf9f.png",
+      "https://cdn.abb-bank.az/large_cost_and_time_effective_f4d000abf6.png",
+      "https://cdn.abb-bank.az/large_fast_698f278bd8.png",
+      "https://cdn.abb-bank.az/large_secure_060e6b36b2.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/kocurmeler-1/pul-kocurmeleri-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_2c18b11574.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/kocurmeler-1/ani-odenis-sistemi": {
+    "image": "https://cdn.abb-bank.az/large_ani_Pay3_6d46779145.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+      "https://cdn.abb-bank.az/large_image_3ddb448be2.png",
+      "https://cdn.abb-bank.az/large_image_fc4c0af1f3.png",
+      "https://cdn.abb-bank.az/large_image_30a649507c.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/senedli-emeliyyatlar-1/qarantiya-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/Image_2cdedd6568.png",
+      "https://cdn.abb-bank.az/Image_1453931bfb.png",
+      "https://cdn.abb-bank.az/Image_0e542ab023.png",
+      "https://cdn.abb-bank.az/Image_a6e48938eb.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/senedli-emeliyyatlar-1/qarantiya-xetti-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_ae163be4c6.png",
+      "https://cdn.abb-bank.az/large_image_e1fc0aabaa.png",
+      "https://cdn.abb-bank.az/large_image_40609b915b.png",
+      "https://cdn.abb-bank.az/large_image_626ee99bf9.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/senedli-emeliyyatlar-1/akkreditiv-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_2d76d03651.png",
+      "https://cdn.abb-bank.az/large_less_risky_d76050fd3b.png",
+      "https://cdn.abb-bank.az/large_independent_ce17a8db67.png",
+      "https://cdn.abb-bank.az/large_partnerships_5500c30a0f.png",
+      "https://cdn.abb-bank.az/Image_13_2c5d0c8887.png",
+      "https://cdn.abb-bank.az/Image_15_7ba079261f.png",
+      "https://cdn.abb-bank.az/Image_20_2153dcb10b.png",
+      "https://cdn.abb-bank.az/Image_16_60e58d99b3.png",
+      "https://cdn.abb-bank.az/Image_17_c52b1123b7.png",
+      "https://cdn.abb-bank.az/Image_21_ca2cfea81b.png",
+      "https://cdn.abb-bank.az/Image_22_c39f1c933f.png",
+      "https://cdn.abb-bank.az/Image_18_b4f3912c5d.png",
+      "https://cdn.abb-bank.az/Image_19_94d30193ff.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/senedli-emeliyyatlar-1/inkasso-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_053dc39eeb.png",
+      "https://cdn.abb-bank.az/Image_a2bfba5af3.png",
+      "https://cdn.abb-bank.az/Image_c3988bc32d.png"
+    ],
+    "logos": []
+  },
+  "/biznes/korporativ/senedli-emeliyyatlar-1/layihelerin-maliyyelesmesi-1": {
+    "image": "https://cdn.abb-bank.az/large_Banner_Corp_IB_AZ_06826c3356.png",
+    "gallery": [
+      "https://cdn.abb-bank.az/large_image_114f193195.png"
+    ],
+    "logos": []
+  },
+  "/haqqimizda/satinalmalar/bildirisler": {
+    "image": "https://cdn.abb-bank.az/large_Documents_and_Resources_b54f4a575b.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/satinalmalar/baglanmis-muqavilelerin-reyestri": {
+    "image": "https://cdn.abb-bank.az/large_Documents_and_Resources_b54f4a575b.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/satinalmalar/satinalma-plani": {
+    "image": "https://cdn.abb-bank.az/large_Documents_and_Resources_b54f4a575b.png",
+    "gallery": [],
+    "logos": []
+  },
+  "/haqqimizda/satinalmalar/techizatci-anketi": {
+    "image": "https://cdn.abb-bank.az/large_Documents_and_Resources_b54f4a575b.png",
+    "gallery": [],
+    "logos": []
+  }
+}

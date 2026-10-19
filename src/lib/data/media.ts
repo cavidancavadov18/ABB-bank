@@ -1,0 +1,217 @@
+const CDN = "https://cdn.abb-bank.az";
+
+export const media = {
+  logo: {
+    favicon: "https://abb-bank.az/favicon/favicon-32x32.png",
+    apple: "https://abb-bank.az/favicon/apple-touch-icon.png",
+  },
+  hero: [
+    {
+      id: "child",
+      image: `${CDN}/sldier_Deposit_f526c8b406.png`,
+      badge: { az: "Uşaqlar üçün", en: "For children" },
+      title: {
+        az: "Yeni əmanət - Uşaq yığım əmanəti",
+        en: "New deposit - Child savings",
+      },
+      desc: {
+        az: "Övladınızın gələcəyi üçün bu gündən yığmağa başlayın!",
+        en: "Start saving for your child's future today!",
+      },
+      cta: { az: "Ətraflı", en: "Details" },
+      gradient: "linear-gradient(135deg, #0ea5e9 0%, #2563eb 55%, #1d4ed8 100%)",
+    },
+    {
+      id: "qarabag",
+      image: `${CDN}/44444d4_1_4d5909902d.png`,
+      badge: { az: "ABB-Qarabağ FK Standard", en: "ABB-Qarabag FK Standard" },
+      title: {
+        az: "ABB-Qarabağ FK Standard",
+        en: "ABB-Qarabag FK Standard",
+      },
+      desc: {
+        az: "Qarabağ FK-nın yanında olun. Hər alışda, hər oyunda, hər qələbədə!",
+        en: "Stand with Qarabag FK. Every purchase, every match, every win!",
+      },
+      cta: { az: "Sifariş edin", en: "Order now" },
+      gradient: "linear-gradient(135deg, #111827 0%, #1e3a8a 55%, #1b63ed 100%)",
+    },
+    {
+      id: "iticket",
+      image: `${CDN}/ABB_slider_iticket_97c9602843.png`,
+      badge: { az: "iTicket", en: "iTicket" },
+      title: {
+        az: "iTicket artıq ABB mobile-da!",
+        en: "iTicket is now in ABB mobile!",
+      },
+      desc: {
+        az: "ABB mobile tətbiqini yeniləyin və ilk biletinizi indi seçin.",
+        en: "Update ABB mobile and choose your first ticket now.",
+      },
+      cta: { az: "Ətraflı", en: "Details" },
+      gradient: "linear-gradient(135deg, #7c3aed 0%, #4f46e5 50%, #2563eb 100%)",
+    },
+    {
+      id: "kids-app",
+      image: `${CDN}/sldier_kids_App_1_30789c3ee3.png`,
+      badge: { az: "7-17 yaş üçün", en: "Ages 7-17" },
+      title: {
+        az: "ABB mobile-da yeni funksiya: Uşaq profili",
+        en: "New in ABB mobile: Kids profile",
+      },
+      desc: {
+        az: "Övladınız üçün Alpha Card sifariş edin və uşaq profilini aktivləşdirin.",
+        en: "Order Alpha Card for your child and activate the kids profile.",
+      },
+      cta: { az: "Ətraflı", en: "Details" },
+      gradient: "linear-gradient(135deg, #06b6d4 0%, #3b82f6 55%, #6366f1 100%)",
+    },
+    {
+      id: "travel",
+      image: `${CDN}/Mask_group_90c1fb8f04.png`,
+      badge: { az: "Səyahət", en: "Travel" },
+      title: {
+        az: "DigiTravel ilə rahat səyahət!",
+        en: "Travel easily with DigiTravel!",
+      },
+      desc: {
+        az: "Səyahətinizi birbaşa ABB mobile-da planlayın.",
+        en: "Plan your trip directly in ABB mobile.",
+      },
+      cta: { az: "Ətraflı", en: "Details" },
+      gradient: "linear-gradient(135deg, #0284c7 0%, #1d4ed8 55%, #312e81 100%)",
+    },
+    {
+      id: "tam-visa",
+      image: `${CDN}/sldier_1_2tam_visa_6fe89cc41c.png`,
+      badge: { az: "Tam Visa", en: "Tam Visa" },
+      title: {
+        az: "Qarşılayın yeni rəqəmsal Tam Visa!",
+        en: "Meet the new digital Tam Visa!",
+      },
+      desc: {
+        az: "Dövriyyə edin, real hədiyyələr qazanın",
+        en: "Spend and earn real rewards",
+      },
+      cta: { az: "Sifariş edin", en: "Order now" },
+      gradient: "linear-gradient(135deg, #1e293b 0%, #1b63ed 60%, #0ea5e9 100%)",
+    },
+    {
+      id: "ai",
+      image: `${CDN}/ai_1_738c7d167c.png`,
+      badge: { az: "ABB AI Assistent", en: "ABB AI Assistant" },
+      title: {
+        az: "Səsli Süni İntellekt köməkçiniz",
+        en: "Your voice AI assistant",
+      },
+      desc: { az: "Artıq xidmətinizdədir!", en: "Now at your service!" },
+      cta: { az: "ABB mobile", en: "ABB mobile" },
+      gradient: "linear-gradient(135deg, #5b2ee0 0%, #3b5bdb 50%, #1b63ed 100%)",
+    },
+    {
+      id: "cash",
+      image: `${CDN}/komissiyasiz_m_daxil_f69d5973e9.png`,
+      badge: { az: "Nağd kredit", en: "Cash loan" },
+      title: {
+        az: "10.9%-dən sərfəli nağd kredit",
+        en: "Cash loan from 10.9%",
+      },
+      desc: {
+        az: "70 000 AZN-dək nağd krediti filiala gəlmədən əldə edin!",
+        en: "Get up to 70,000 AZN without visiting a branch!",
+      },
+      cta: { az: "Müraciət edin", en: "Apply" },
+      gradient: "linear-gradient(135deg, #059669 0%, #0d9488 50%, #0369a1 100%)",
+    },
+    {
+      id: "alpha",
+      image: `${CDN}/sldier2_89d5a32c73.png`,
+      badge: { az: "7-17 yaş üçün", en: "Ages 7-17" },
+      title: { az: "Alpha Card", en: "Alpha Card" },
+      desc: {
+        az: "İndi həm rəqəmsal, həm fiziki!",
+        en: "Now both digital and physical!",
+      },
+      cta: { az: "İndi sifariş edin", en: "Order now" },
+      gradient: "linear-gradient(135deg, #7c3aed 0%, #4f46e5 50%, #2563eb 100%)",
+    },
+    {
+      id: "digihesab",
+      image: `${CDN}/Deposit_purple0000_2_1_a7e73c0a10_243da87f0f.png`,
+      badge: { az: "Hesab", en: "Account" },
+      title: { az: "DigiHesab Max", en: "DigiHesab Max" },
+      desc: {
+        az: "Hesabınızdakı qalıq məbləğə illik 6% gəlir əldə edin.",
+        en: "Earn 6% annual income on your account balance.",
+      },
+      cta: { az: "DigiHesab Max", en: "DigiHesab Max" },
+      gradient: "linear-gradient(135deg, #6d28d9 0%, #4f46e5 50%, #2563eb 100%)",
+    },
+  ],
+  products: {
+    digiDeposit: `${CDN}/Deposit_purple0000_2_1_a7e73c0a10_243da87f0f.png`,
+    abbBiz: `${CDN}/ABB_mobile0000_1_35e5063f51.png`,
+    cashLoan: `${CDN}/v30000_1_88847b9b69.png`,
+    abbMobile: `${CDN}/ABB_mobile0000_1_2_b8cca87be8.png`,
+    abbMobileAlt: `${CDN}/ABB_mobile0000_1_1_f103d8c90f.png`,
+  },
+  news: [
+    `${CDN}/usaqyigium1_38169c9ca3.png`,
+    `${CDN}/Vizual1_digi_c20e9959ba.png`,
+    `${CDN}/masterliqa_sayt_c53782fec8.png`,
+    `${CDN}/ABB_slider_iticket_97c9602843.png`,
+    `${CDN}/sldier_1_2tam_visa_6fe89cc41c.png`,
+  ],
+  quickLinks: [
+    `${CDN}/quick_action_de1924bd9a.png`,
+    `${CDN}/quick_action_cb64fc51ac.png`,
+    `${CDN}/quick_action_4d2f54dca3.png`,
+    `${CDN}/D_app_5_0eca73b01a.png`,
+    `${CDN}/63_1_a8fb2ffbb8.png`,
+    `${CDN}/quick_action_f917461d10.png`,
+  ],
+  digiCard: `${CDN}/master_8ec815b00f.png`,
+  digiCardAlt: `${CDN}/image_204956752_845ec35044.png`,
+  campaigns: [
+    `${CDN}/masterliqa_sayt_c53782fec8.png`,
+    `${CDN}/nagd_kredit_abb_7_dek_endirim_34cbcb7d4e.png`,
+    `${CDN}/8000x460_Artboard_1_df3db4c555.png`,
+    `${CDN}/seabreezetrvalekart_c9b49f2238.png`,
+  ],
+  services: [
+    `${CDN}/service_82020ab072.png`,
+    `${CDN}/service_658cbbc816.png`,
+    `${CDN}/service_f4855cf540_2_fd8767cbde.png`,
+    `${CDN}/image_506_edd0057a05.png`,
+    `${CDN}/sayt_183b93695e.png`,
+    `${CDN}/infobank_1_88c9dffdcd.png`,
+  ],
+  mobileBanner: `${CDN}/Banner_ABB_Mobile_AZ_1d0d27e342.png`,
+  qr: `${CDN}/onelinkto_xt3wze_1_36a2263bb2.png`,
+  care: [
+    `${CDN}/Vizual1_digi_c20e9959ba.png`,
+    `${CDN}/usaqyigium1_38169c9ca3.png`,
+    `${CDN}/ai_1_738c7d167c.png`,
+  ],
+  partners: [
+    `${CDN}/1743594398_logo_virtual_qarabag_09375b2313.webp`,
+    `${CDN}/infobank_1_88c9dffdcd.png`,
+    `${CDN}/1743594420_yenilogo_9adce54369.webp`,
+    `${CDN}/logo_msp_f389080057.webp`,
+    `${CDN}/logo_esg_798271f916.svg`,
+  ],
+  social: {
+    twitter: `${CDN}/Twitter_bbc181658d.svg`,
+    youtube: `${CDN}/Youtube_02_f00383e647.svg`,
+    instagram: `${CDN}/Instagram_23ebfc2b78.svg`,
+    facebook: `${CDN}/Facebook_02_9b9a4b5402.svg`,
+    linkedin: `${CDN}/Linkedin_866628548d.svg`,
+  },
+  pageHero: {
+    personal: `${CDN}/large_sldier_Deposit_f526c8b406.png`,
+    business: `${CDN}/large_fly_Desk_slider_dd442dbcc5.png`,
+    about: `${CDN}/large_Vizual1_digi_c20e9959ba.png`,
+    news: `${CDN}/usaqyigium1_38169c9ca3.png`,
+    investors: `${CDN}/master_8ec815b00f.png`,
+  },
+} as const;

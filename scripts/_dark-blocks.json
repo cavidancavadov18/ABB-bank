@@ -1,0 +1,179 @@
+{
+  "nagd": {
+    "steps": {
+      "bgi": "radial-gradient(45.81% 111.02% at 57.47% 14.48%, rgb(56, 60, 70) 0%, rgb(36, 40, 47) 100%)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "radius": "64px 64px 0px 0px",
+      "pad": "0px 0px 64px",
+      "h": 824,
+      "imgs": [
+        "https://cdn.abb-bank.az/05_1_e5f3181cdf.png",
+        "https://cdn.abb-bank.az/05_1_e5f3181cdf.png"
+      ],
+      "texts": [
+        "ABB mobile-dan 3 addıma nağd kredit alın",
+        "1Onlayn kredit sifariş edinKredit müraciətini tez və asanlıqla onlayn tamamlamaq mümkündür.",
+        "Onlayn kredit sifariş edinKredit müraciətini tez və asanlıqla onlayn tamamlamaq mümkündür.",
+        "Onlayn kredit sifariş edin",
+        "Kredit müraciətini tez və asanlıqla onlayn tamamlamaq mümkündür.",
+        "2Sürətli təsdiqSizin müraciət dərhal qeydə alınır.",
+        "Sürətli təsdiqSizin müraciət dərhal qeydə alınır.",
+        "Sürətli təsdiq",
+        "Sizin müraciət dərhal qeydə alınır.",
+        "Kredit məbləğini alın",
+        "ABB kartına köçürmə, Bakı və Abşeron üzrə pulsuz kuryer çatdırılması və ya istənilən ABB filialından əldə edə bilərsiniz."
+      ]
+    },
+    "mobile": {
+      "bgi": "radial-gradient(93.01% 342.43% at 73.44% -11.25%, rgb(43, 144, 237) 0%, rgb(27, 99, 237) 100%)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "radius": "64px 64px 0px 0px",
+      "pad": "0px",
+      "h": 548,
+      "imgs": [
+        "https://cdn.abb-bank.az/onelinkto_xt3wze_1_36a2263bb2.png",
+        "https://cdn.abb-bank.az/onelinkto_xt3wze_1_36a2263bb2.png",
+        "https://cdn.abb-bank.az/Banner_ABB_Mobile_AZ_1d0d27e342.png",
+        "https://cdn.abb-bank.az/Banner_ABB_Mobile_AZ_1d0d27e342.png"
+      ],
+      "texts": [
+        "ABB mobile4.9 reytinqə malik innovativ və təhlükəsiz bank mobil tətbiqi!ABB mobile yükləmək üçün QR kodu skan edin.",
+        "ABB mobile4.9 reytinqə malik innovativ və təhlükəsiz bank mobil tətbiqi!",
+        "ABB mobile",
+        "4.9 reytinqə malik innovativ və təhlükəsiz bank mobil tətbiqi!",
+        "ABB mobile yükləmək üçün QR kodu skan edin."
+      ]
+    }
+  },
+  "about": {
+    "career": {
+      "bgi": "radial-gradient(45.81% 111.02% at 57.47% 14.48%, rgb(56, 60, 70) 0%, rgb(36, 40, 47) 100%)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "radius": "64px 64px 0px 0px",
+      "pad": "0px",
+      "h": 604,
+      "imgs": [
+        "https://cdn.abb-bank.az/sayt_183b93695e.png"
+      ],
+      "texts": [
+        "Gələcəyinizi ABB ilə qurun!",
+        "Bizə qatılın"
+      ]
+    },
+    "bankYear": {
+      "bgi": "none",
+      "bg": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "pad": "0px",
+      "h": 5907,
+      "imgs": [
+        "https://cdn.userway.org/widgetapp/images/spin_wh.svg",
+        "https://cdn.userway.org/widgetapp/images/body_wh.svg",
+        "https://cdn.userway.org/widgetapp/images/spin_wh.svg",
+        "https://cdn.abb-bank.az/image_15_c92f5ef275.png",
+        "https://cdn.abb-bank.az/image_15_c92f5ef275.png",
+        "https://cdn.abb-bank.az/Top_Employer_png_e23a2d5cc8.png",
+        "https://cdn.abb-bank.az/Top_Employer_png_e23a2d5cc8.png",
+        "https://cdn.abb-bank.az/Local_Bank_png_b70acd56ce.png",
+        "https://cdn.abb-bank.az/Local_Bank_png_b70acd56ce.png",
+        "https://cdn.abb-bank.az/Image_f97c0e3819.png",
+        "https://cdn.abb-bank.az/Image_f97c0e3819.png",
+        "https://cdn.abb-bank.az/Best_Bank_In_Azerbaijan_png_9f4a328edf.png",
+        "https://cdn.abb-bank.az/Best_Bank_In_Azerbaijan_png_9f4a328edf.png",
+        "https://cdn.abb-bank.az/MISSION_and_Strategic_vision_new_png_d8e22a80c4.png",
+        "https://cdn.abb-bank.az/MISSION_and_Strategic_vision_new_png_d8e22a80c4.png",
+        "https://cdn.abb-bank.az/Social_Responsibility_and_Sponsorship_new_9de98da8b0.png",
+        "https://cdn.abb-bank.az/Social_Responsibility_and_Sponsorship_new_9de98da8b0.png",
+        "https://cdn.abb-bank.az/Financial_and_Corporate_Reports_new_efc622bd3d.png",
+        "https://cdn.abb-bank.az/Financial_and_Corporate_Reports_new_efc622bd3d.png",
+        "https://cdn.abb-bank.az/Insights_and_Research_new_850ef1d58c.png",
+        "https://cdn.abb-bank.az/Insights_and_Research_new_850ef1d58c.png",
+        "https://cdn.abb-bank.az/legal_Aboutus_e713fb6ed8.png",
+        "https://cdn.abb-bank.az/legal_Aboutus_e713fb6ed8.png",
+        "https://cdn.abb-bank.az/News_65eb2961b9.png",
+        "https://cdn.abb-bank.az/News_65eb2961b9.png",
+        "https://cdn.abb-bank.az/Research_be4da6ae2b.png",
+        "https://cdn.abb-bank.az/Research_be4da6ae2b.png",
+        "https://cdn.abb-bank.az/Documents_b19c5dfdeb.png",
+        "https://cdn.abb-bank.az/Documents_b19c5dfdeb.png",
+        "https://cdn.abb-bank.az/Policy_4637439bbc.png",
+        "https://cdn.abb-bank.az/Policy_4637439bbc.png",
+        "https://cdn.abb-bank.az/Procurement_5abd94f831.png",
+        "https://cdn.abb-bank.az/Procurement_5abd94f831.png",
+        "https://cdn.abb-bank.az/Brand_Center_6606c5466a.png",
+        "https://cdn.abb-bank.az/Brand_Center_6606c5466a.png",
+        "https://cdn.abb-bank.az/sayt_183b93695e.png",
+        "https://cdn.abb-bank.az/image_204956813_a01e7de892.png",
+        "https://cdn.abb-bank.az/usaqyigium1_38169c9ca3.png",
+        "https://cdn.abb-bank.az/usaqyigium1_38169c9ca3.png",
+        "https://cdn.abb-bank.az/Vizual1_digi_c20e9959ba.png",
+        "https://cdn.abb-bank.az/Vizual1_digi_c20e9959ba.png",
+        "https://cdn.abb-bank.az/image_506_edd0057a05.png",
+        "https://cdn.abb-bank.az/image_506_edd0057a05.png",
+        "https://cdn.abb-bank.az/Twitter_bbc181658d.svg",
+        "https://cdn.abb-bank.az/Youtube_02_f00383e647.svg",
+        "https://cdn.abb-bank.az/Instagram_23ebfc2b78.svg",
+        "https://cdn.abb-bank.az/Facebook_02_9b9a4b5402.svg",
+        "https://cdn.abb-bank.az/Linkedin_866628548d.svg",
+        "https://cdn.abb-bank.az/1743594398_logo_virtual_qarabag_09375b2313.webp",
+        "https://cdn.abb-bank.az/infobank_1_88c9dffdcd.png",
+        "https://cdn.abb-bank.az/1743594420_yenilogo_9adce54369.webp",
+        "https://cdn.abb-bank.az/logo_msp_f389080057.webp",
+        "https://cdn.abb-bank.az/logo_esg_798271f916.svg",
+        "https://staticfiles.gleap.io/gfeedback_widgets/4yik1kCUJebIASJp735MhFeogrV9O3pIcQALGcMZkqYVu4KHjOCOEEtRoIrhSZ6EMKG72g9vcEu.png"
+      ],
+      "texts": [
+        "FərdiBiznesHaqqımızdaİnvestorlarla əlaqəXəbərlərAZ937Xidmət şəbəkəsi",
+        "FərdiBiznesHaqqımızdaİnvestorlarla əlaqəXəbərlər",
+        "AZ937Xidmət şəbəkəsi",
+        "ABB - İlin bankıMəqsədimiz müasir maliyyə dünyasında etibarlı tərəfdaşınız olmaqdır",
+        "Məqsədimiz müasir maliyyə dünyasında etibarlı tərəfdaşınız olmaqdır",
+        "Əsas mükafatlarABB müştəri yönümlülüyü və maliyyə innovasiyaları sahəsindəki uğurlarına görə bir sıra beynəlxalq mükafatlarla təltif edilib",
+        "Əsas mükafatlar",
+        "ABB müştəri yönümlülüyü və maliyyə innovasiyaları sahəsindəki uğurlarına görə bir sıra beynəlxalq mükafatlarla təltif edilib",
+        "“İlin ən yaxşı rəqəmsal bankı”\"Euromoney Magazine\" 2025",
+        "“İlin ən yaxşı rəqəmsal bankı”",
+        "\"Euromoney Magazine\" 2025",
+        "Ölkə üzrə “İlin ən yaxşı bankı”“Global Finance” 2025",
+        "Ölkə üzrə “İlin ən yaxşı bankı”",
+        "“Global Finance” 2025"
+      ]
+    }
+  },
+  "home": {
+    "career": {
+      "bgi": "radial-gradient(45.81% 111.02% at 57.47% 14.48%, rgb(56, 60, 70) 0%, rgb(36, 40, 47) 100%)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "radius": "64px 64px 0px 0px",
+      "pad": "0px 0px 64px",
+      "h": 668,
+      "imgs": [
+        "https://cdn.abb-bank.az/sayt_183b93695e.png"
+      ],
+      "texts": [
+        "Gələcəyinizi ABB ilə qurun!",
+        "Bizə qatılın"
+      ]
+    },
+    "mobile": {
+      "bgi": "radial-gradient(93.01% 342.43% at 73.44% -11.25%, rgb(43, 144, 237) 0%, rgb(27, 99, 237) 100%)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "radius": "64px 64px 0px 0px",
+      "pad": "0px",
+      "h": 548,
+      "imgs": [
+        "https://cdn.abb-bank.az/onelinkto_xt3wze_1_36a2263bb2.png",
+        "https://cdn.abb-bank.az/onelinkto_xt3wze_1_36a2263bb2.png",
+        "https://cdn.abb-bank.az/Banner_ABB_Mobile_AZ_1d0d27e342.png",
+        "https://cdn.abb-bank.az/Banner_ABB_Mobile_AZ_1d0d27e342.png"
+      ],
+      "texts": [
+        "ABB mobile4.9 reytinqə malik innovativ və təhlükəsiz bank mobil tətbiqi!ABB mobile yükləmək üçün QR kodu skan edin.",
+        "ABB mobile4.9 reytinqə malik innovativ və təhlükəsiz bank mobil tətbiqi!",
+        "ABB mobile",
+        "4.9 reytinqə malik innovativ və təhlükəsiz bank mobil tətbiqi!",
+        "ABB mobile yükləmək üçün QR kodu skan edin."
+      ]
+    }
+  }
+}

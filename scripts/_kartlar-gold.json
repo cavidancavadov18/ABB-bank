@@ -1,0 +1,280 @@
+{
+  "title": "Tam DigiCard - Tam rəqəmsal, tam real!",
+  "description": "Bu kartla real üstünlüklərdən faydalanın.",
+  "cta": "Ödənişsiz sifariş edin",
+  "heroImage": "https://cdn.abb-bank.az/large_image_d4fe7fdb10.png",
+  "cards": [
+    {
+      "title": "Kartlar",
+      "desc": "Bu kartla real üstünlüklərdən faydalanın.",
+      "image": "https://cdn.abb-bank.az/large_image_d4fe7fdb10.png",
+      "href": "/ferdi"
+    },
+    {
+      "title": "Klassik debet kartlar",
+      "desc": "Gündəlik yerində ödənişlər üçün təhlükəsiz və rahat",
+      "image": "https://cdn.abb-bank.az/large_Image_5041b16a8d.png",
+      "href": "https://abb-bank.az/ferdi/kartlar/debet-kartlari"
+    },
+    {
+      "title": "Rəqəmsal debet kartlar",
+      "desc": "Gündəlik yerində ödənişlər üçün təhlükəsiz və rahat",
+      "image": "https://cdn.abb-bank.az/large_Image_3369371f7b.png",
+      "href": "https://abb-bank.az/ferdi/kartlar/debet-kartlari?active-tab=Rəqəmsal"
+    },
+    {
+      "title": "Kredit kartları",
+      "desc": "Kredit və debet kart funksiyalarını birləşdirərək çeviklik və rahatlıq təqdim edir.",
+      "image": "https://cdn.abb-bank.az/large_Image_55e0dacdea.png",
+      "href": "https://abb-bank.az/ferdi/kartlar/kredit-kartlari"
+    },
+    {
+      "title": "Mil kartları",
+      "desc": "Gündəlik yerində ödənişlər üçün təhlükəsiz və rahat",
+      "image": "https://cdn.abb-bank.az/large_Image_40c06d8784.png",
+      "href": "https://abb-bank.az/ferdi/kartlar/debet-kartlari?active-tab=Miles"
+    },
+    {
+      "title": "Premium kartlar",
+      "desc": "Gündəlik yerində ödənişlər üçün təhlükəsiz və rahat",
+      "image": "https://cdn.abb-bank.az/large_Image_314cb5599e.png",
+      "href": "https://abb-bank.az/ferdi/kartlar/debet-kartlari"
+    }
+  ],
+  "stats": [],
+  "contentSections": [
+    {
+      "title": "Bank kartları",
+      "desc": "Bank kartları gündəlik ödənişlər, onlayn alış-veriş, nağdsız əməliyyatlar və şəxsi maliyyənin idarə olunması üçün rahat seçimdir. ABB-də debet kart, rəqəmsal kart, kredit kartı, mil kartı və premium kartlar arasından ehtiyacınıza uyğun bank kartını seçə bilərsiniz."
+    },
+    {
+      "title": "Sizə uyğun bank kartını necə seçmək olar?",
+      "desc": "Bank kartı seçərkən ilk olaraq istifadə məqsədinizi müəyyən edin. Gündəlik ödənişlər üçün debet kart, internet alış-verişləri üçün rəqəmsal kart, əlavə limit üçün kredit kartı, səyahət üstünlükləri üçün mil kartı daha uyğun ola bilər."
+    },
+    {
+      "title": "Plastik kartlar",
+      "desc": "Plastik kartlar mağazalarda, restoranlarda, POS-terminallarda, bankomatlarda və onlayn ödənişlərdə istifadə olunur. Bu kartlarla həm nağdsız ödəniş etmək, həm də nağd vəsait çıxarmaq mümkündür."
+    },
+    {
+      "title": "Rəqəmsal bank kartları",
+      "desc": "Rəqəmsal bank kartları fiziki kart gözləmədən ödəniş etmək istəyənlər üçün rahatdır. Bu kartlardan onlayn alış-veriş, tətbiqdaxili ödənişlər və rəqəmsal xidmətlərdə istifadə etmək olar."
+    },
+    {
+      "title": "Pulsuz bank kartı sifarişi",
+      "desc": "Pulsuz bank kartı sifarişi kart əldə etmək istəyən istifadəçilər üçün əlverişli seçimdir. Kart sifariş edərkən yalnız sifariş haqqına yox, kartın keşbek, gəlir, xidmət haqqı və mobil tətbiqdə idarəetmə imkanlarına da baxmaq lazımdır."
+    },
+    {
+      "title": "Onlayn bank kartı sifarişi necə edilir?",
+      "desc": "Onlayn bank kartı sifarişi filiala getmədən kart əldə etməyə imkan verir. İstifadəçi uyğun kartı seçərək sifariş prosesini rəqəmsal formada tamamlaya bilər."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Bank kartı nədir?",
+      "a": "Bank kartı ödəniş etmək, nağd pul çıxarmaq, online alış-veriş aparmaq və hesabdakı vəsaiti idarə etmək üçün istifadə olunan ödəniş kartıdır. Bank kartları debet, kredit, rəqəmsal, plastik, mil və premium kart kimi fərqli növlərdə ola bilər."
+    },
+    {
+      "q": "Bank kartını online sifariş etmək mümkündür?",
+      "a": "Bəli, ABB-də bank kartını online sifariş etmək mümkündür. Sizə uyğun kartı seçərək sifariş prosesini rahat şəkildə tamamlaya bilərsiniz."
+    },
+    {
+      "q": "Plastik kartla rəqəmsal kartın fərqi nədir?",
+      "a": "Plastik kart fiziki formada təqdim olunur və POS-terminal, bankomat və onlayn ödənişlərdə istifadə edilir. Rəqəmsal kart isə mobil tətbiqdə aktiv olur və əsasən online ödənişlər üçün rahat seçimdir."
+    },
+    {
+      "q": "Bank kartı seçərkən nələrə diqqət etmək lazımdır?",
+      "a": "Bank kartı seçərkən istifadə məqsədinizə, illik xidmət haqqına, keşbek imkanlarına, kart balansına gəlir faizinə, online ödəniş funksiyasına və mobil tətbiqdə idarəetmə imkanlarına diqqət etmək lazımdır."
+    },
+    {
+      "q": "Bank kartı ilə keşbek qazanmaq mümkündür?",
+      "a": "Bəli, bəzi bank kartları ilə ödəniş etdikdə keşbek qazanmaq mümkündür. Keşbek şərtləri kartın növünə və kampaniya qaydalarına görə dəyişə bilər."
+    },
+    {
+      "q": "Bank kartını ABB mobile ilə idarə etmək olar?",
+      "a": "Bəli, ABB mobile vasitəsilə kart balansını izləmək, ödənişlərə baxmaq, kart əməliyyatlarına nəzarət etmək və kartla bağlı bir çox funksiyanı idarə etmək mümkündür."
+    },
+    {
+      "q": "Premium bank kartlarının üstünlükləri nələrdir?",
+      "a": "Premium bank kartları daha geniş xidmət imkanları, xüsusi imtiyazlar və əlavə rahatlıq istəyən istifadəçilər üçün nəzərdə tutulur. Bu kartlar gündəlik istifadə ilə yanaşı səyahət və fərdi xidmət üstünlükləri də verə bilər."
+    }
+  ],
+  "breadcrumbs": [
+    "Fərdi",
+    "Kartlar"
+  ],
+  "sections": [
+    "Bu kartla real üstünlüklərdən faydalanın.",
+    "Sizə uyğun bank kartını seçin",
+    "Klassik debet kartlar",
+    "Rəqəmsal debet kartlar",
+    "Kredit kartları",
+    "Mil kartları",
+    "Premium kartlar",
+    "Bank kartları",
+    "Sizə uyğun bank kartını necə seçmək olar?",
+    "Plastik kartlar"
+  ],
+  "flow": [
+    {
+      "tag": "H1",
+      "text": "Tam DigiCard - Tam rəqəmsal, tam real!"
+    },
+    {
+      "tag": "P",
+      "text": "Bu kartla real üstünlüklərdən faydalanın."
+    },
+    {
+      "tag": "P",
+      "text": "Faydalı keşbek"
+    },
+    {
+      "tag": "P",
+      "text": "10%-dək"
+    },
+    {
+      "tag": "P",
+      "text": "İllik"
+    },
+    {
+      "tag": "P",
+      "text": "6% gəlir"
+    },
+    {
+      "tag": "P",
+      "text": "İllik xidmət haqqı"
+    },
+    {
+      "tag": "P",
+      "text": "Sizə uyğun bank kartını seçin"
+    },
+    {
+      "tag": "P",
+      "text": "Klassik debet kartlar"
+    },
+    {
+      "tag": "P",
+      "text": "Gündəlik yerində ödənişlər üçün təhlükəsiz və rahat"
+    },
+    {
+      "tag": "P",
+      "text": "Rəqəmsal debet kartlar"
+    },
+    {
+      "tag": "P",
+      "text": "Gündəlik yerində ödənişlər üçün təhlükəsiz və rahat"
+    },
+    {
+      "tag": "P",
+      "text": "Kredit kartları"
+    },
+    {
+      "tag": "P",
+      "text": "Kredit və debet kart funksiyalarını birləşdirərək çeviklik və rahatlıq təqdim edir."
+    },
+    {
+      "tag": "P",
+      "text": "Mil kartları"
+    },
+    {
+      "tag": "P",
+      "text": "Gündəlik yerində ödənişlər üçün təhlükəsiz və rahat"
+    },
+    {
+      "tag": "P",
+      "text": "Premium kartlar"
+    },
+    {
+      "tag": "P",
+      "text": "Gündəlik yerində ödənişlər üçün təhlükəsiz və rahat"
+    },
+    {
+      "tag": "H2",
+      "text": "Bank kartları"
+    },
+    {
+      "tag": "H2",
+      "text": "Sizə uyğun bank kartını necə seçmək olar?"
+    },
+    {
+      "tag": "P",
+      "text": "Seçim zamanı illik xidmət haqqı, keşbek, kart balansına gəlir, onlayn ödəniş imkanı və ABB mobile ilə idarəetmə funksiyalarını da nəzərə almaq faydalıdır."
+    },
+    {
+      "tag": "H2",
+      "text": "Plastik kartlar"
+    },
+    {
+      "tag": "H2",
+      "text": "Rəqəmsal bank kartları"
+    },
+    {
+      "tag": "P",
+      "text": "ABB mobile vasitəsilə rəqəmsal kart balansını izləmək, əməliyyatlara nəzarət etmək və kartı gündəlik ödənişlərdə rahat idarə etmək mümkündür."
+    },
+    {
+      "tag": "H2",
+      "text": "Pulsuz bank kartı sifarişi"
+    },
+    {
+      "tag": "P",
+      "text": "İlk Tam DigiCard-ı ödənişsiz sifariş edərək gündəlik ödənişlərdə 10%-dək keşbek qazana bilərsiniz. Kart balansına illik 6% gəlir hesablanır."
+    },
+    {
+      "tag": "H2",
+      "text": "Onlayn bank kartı sifarişi necə edilir?"
+    },
+    {
+      "tag": "P",
+      "text": "Onlayn bank kartı sifarişi filiala getmədən kart əldə etməyə imkan verir. İstifadəçi uyğun kartı seçərək sifariş prosesini rəqəmsal formada tamamlaya bilər."
+    },
+    {
+      "tag": "P",
+      "text": "Kart seçərkən illik xidmət haqqı, keşbek, gəlir imkanı, kredit limiti və əlavə üstünlükləri müqayisə etmək düzgün qərar verməyə kömək edir."
+    },
+    {
+      "tag": "P",
+      "text": "Tez-tez verilən suallar"
+    },
+    {
+      "tag": "H3",
+      "text": "Bank kartı nədir?"
+    },
+    {
+      "tag": "H3",
+      "text": "Bank kartını online sifariş etmək mümkündür?"
+    },
+    {
+      "tag": "H3",
+      "text": "Plastik kartla rəqəmsal kartın fərqi nədir?"
+    },
+    {
+      "tag": "H3",
+      "text": "Bank kartı seçərkən nələrə diqqət etmək lazımdır?"
+    },
+    {
+      "tag": "H3",
+      "text": "Bank kartı ilə keşbek qazanmaq mümkündür?"
+    },
+    {
+      "tag": "H3",
+      "text": "Bank kartını ABB mobile ilə idarə etmək olar?"
+    },
+    {
+      "tag": "H3",
+      "text": "Premium bank kartlarının üstünlükləri nələrdir?"
+    },
+    {
+      "tag": "P",
+      "text": "ABB mobile"
+    },
+    {
+      "tag": "P",
+      "text": "4.9 reytinqə malik innovativ və təhlükəsiz bank mobil tətbiqi!"
+    },
+    {
+      "tag": "P",
+      "text": "ABB mobile yükləmək üçün QR kodu skan edin."
+    }
+  ],
+  "ok": true
+}
