@@ -1,0 +1,16 @@
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      HOSTNAME: 0.0.0.0
+      PORT: 3000
+      ADMIN_SESSION_SECRET: ${ADMIN_SESSION_SECRET:-abb-admin-demo-secret-2026}
+    volumes:
+      - admin-data:/app/data/admin
+    restart: unless-stopped
+
+volumes:
+  admin-data:
