@@ -52,12 +52,6 @@ export const campaigns = [
   },
 ];
 
-export const exchangeRates = [
-  { code: "USD", buy: 1.697, sell: 1.702 },
-  { code: "EUR", buy: 1.8712, sell: 1.9266 },
-  { code: "100 RUB", buy: 1.91, sell: 2.06 },
-];
-
 export const calculatorDefaults = {
   credit: { amount: 10000, term: 12, rate: 12, min: 500, max: 70000 },
   deposit: { amount: 1000, term: 12, rate: 8.5, min: 100, max: 500000 },

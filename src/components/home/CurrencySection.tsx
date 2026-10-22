@@ -1,8 +1,7 @@
 "use client";
 
-import Link from "next/link";
-import { useMemo, useState } from "react";
-import { exchangeRates } from "@/lib/data/content";
+import { useEffect, useMemo, useState } from "react";
+import type { CbarRate } from "@/lib/cbar";
 import type { Dictionary } from "@/lib/i18n/dictionaries";
 import type { Locale } from "@/lib/i18n/types";
 import { ArrowRight } from "../icons";
@@ -14,35 +13,54 @@ type Props = {
 
 const currencies = ["AZN", "USD", "EUR", "RUB"] as const;
 
+function rateLabel(row: CbarRate) {
+  return row.nominal === 1 ? row.code : `${row.nominal} ${row.code}`;
+}
+
 export function CurrencySection({ locale, dict }: Props) {
   const [sellAmount, setSellAmount] = useState("100");
   const [from, setFrom] = useState<(typeof currencies)[number]>("AZN");
   const [to, setTo] = useState<(typeof currencies)[number]>("USD");
+  const [rates, setRates] = useState<CbarRate[] | null>(null);
+  const [bulletinDate, setBulletinDate] = useState<string | null>(null);
+  const [error, setError] = useState(false);
 
-  const rateMap = useMemo(() => {
-    const map: Record<string, { buy: number; sell: number }> = {
-      AZN: { buy: 1, sell: 1 },
-      USD: { buy: exchangeRates[0].buy, sell: exchangeRates[0].sell },
-      EUR: { buy: exchangeRates[1].buy, sell: exchangeRates[1].sell },
-      RUB: {
-        buy: exchangeRates[2].buy / 100,
-        sell: exchangeRates[2].sell / 100,
-      },
+  useEffect(() => {
+    let cancelled = false;
+    fetch("/api/rates")
+      .then((response) => {
+        if (!response.ok) throw new Error("rates");
+        return response.json() as Promise<{ date: string; rates: CbarRate[] }>;
+      })
+      .then((data) => {
+        if (cancelled) return;
+        setRates(data.rates);
+        setBulletinDate(data.date);
+      })
+      .catch(() => {
+        if (!cancelled) setError(true);
+      });
+    return () => {
+      cancelled = true;
     };
-    return map;
   }, []);
 
+  const perUnit = useMemo(() => {
+    const map: Record<string, number> = { AZN: 1 };
+    for (const row of rates ?? []) map[row.code] = row.value / row.nominal;
+    return map;
+  }, [rates]);
+
   const buyAmount = useMemo(() => {
+    if (!rates) return "—";
     const amount = Number(sellAmount) || 0;
     if (from === to) return amount.toFixed(2);
-    // Convert from -> AZN -> to using mid-ish bank logic: sell when buying foreign with AZN
-    let azn = amount;
-    if (from !== "AZN") {
-      azn = amount * rateMap[from].buy;
-    }
-    if (to === "AZN") return azn.toFixed(2);
-    return (azn / rateMap[to].sell).toFixed(2);
-  }, [sellAmount, from, to, rateMap]);
+    const fromRate = perUnit[from];
+    const toRate = perUnit[to];
+    if (!fromRate || !toRate) return "—";
+    const azn = from === "AZN" ? amount : amount * fromRate;
+    return (to === "AZN" ? azn : azn / toRate).toFixed(2);
+  }, [sellAmount, from, to, perUnit, rates]);
 
   const swap = () => {
     setFrom(to);
@@ -53,31 +71,55 @@ export function CurrencySection({ locale, dict }: Props) {
     <section className="container-abb py-8">
       <div className="grid gap-4 lg:grid-cols-2">
         <div className="card-soft p-6 md:p-8">
-          <div className="mb-6 flex items-center justify-between gap-3">
+          <div className="mb-2 flex items-center justify-between gap-3">
             <h2 className="text-[24px] font-semibold text-abb-ink">
               {dict.home.currencyRates}
             </h2>
-            <Link href={`/${locale}/ferdi`} className="link-blue inline-flex items-center gap-1 text-[14px]">
+            <a
+              href="https://cbar.az/currency/rates"
+              target="_blank"
+              rel="noreferrer"
+              className="link-blue inline-flex items-center gap-1 text-[14px]"
+            >
               {dict.home.allRates}
               <ArrowRight className="h-3.5 w-3.5" />
-            </Link>
+            </a>
           </div>
+          <p className="mb-6 text-[13px] text-abb-muted">
+            {bulletinDate
+              ? `${dict.home.rateSource} · ${bulletinDate}`
+              : dict.home.rateSource}
+          </p>
           <div className="overflow-hidden rounded-[16px] border border-abb-border">
-            <div className="grid grid-cols-3 bg-abb-surface px-4 py-3 text-[13px] font-medium text-abb-muted">
+            <div className="grid grid-cols-2 bg-abb-surface px-4 py-3 text-[13px] font-medium text-abb-muted">
               <span>{dict.home.currency}</span>
-              <span className="text-right">{dict.home.buy}</span>
-              <span className="text-right">{dict.home.sell}</span>
+              <span className="text-right">{dict.home.officialRate}</span>
             </div>
-            {exchangeRates.map((row) => (
-              <div
-                key={row.code}
-                className="grid grid-cols-3 border-t border-abb-border px-4 py-3.5 text-[15px]"
-              >
-                <span className="font-medium text-abb-ink">{row.code}</span>
-                <span className="text-right text-abb-ink">{row.buy.toFixed(4)}</span>
-                <span className="text-right text-abb-ink">{row.sell.toFixed(4)}</span>
-              </div>
-            ))}
+            {error ? (
+              <p className="border-t border-abb-border px-4 py-3.5 text-[15px] text-abb-muted">
+                {dict.home.rateError}
+              </p>
+            ) : rates ? (
+              rates.map((row) => (
+                <div
+                  key={row.code}
+                  className="grid grid-cols-2 border-t border-abb-border px-4 py-3.5 text-[15px]"
+                >
+                  <span className="font-medium text-abb-ink">{rateLabel(row)}</span>
+                  <span className="text-right text-abb-ink">{row.value.toFixed(4)}</span>
+                </div>
+              ))
+            ) : (
+              [0, 1, 2].map((row) => (
+                <div
+                  key={row}
+                  className="grid grid-cols-2 border-t border-abb-border px-4 py-3.5"
+                >
+                  <span className="h-4 w-16 animate-pulse rounded bg-abb-surface" />
+                  <span className="ml-auto h-4 w-20 animate-pulse rounded bg-abb-surface" />
+                </div>
+              ))
+            )}
           </div>
         </div>
 
