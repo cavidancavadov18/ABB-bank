@@ -1,11 +1,21 @@
-# GitHub language stats: show Python backend, hide frontend TypeScript/JS
+# GitHub language bar: only Python counts
+*.py linguist-detectable=true
+*.py linguist-language=Python
+
+# Hide frontend / non-Python from language stats
 *.ts linguist-detectable=false
 *.tsx linguist-detectable=false
 *.js linguist-detectable=false
+*.jsx linguist-detectable=false
 *.mjs linguist-detectable=false
+*.cjs linguist-detectable=false
 *.css linguist-detectable=false
+*.scss linguist-detectable=false
 *.json linguist-detectable=false
+*.md linguist-detectable=false
+Dockerfile linguist-detectable=false
+**/Dockerfile linguist-detectable=false
 
-backend/** linguist-detectable=true
-*.py linguist-language=Python
-*.py linguist-detectable=true
+src/** linguist-vendored
+scripts/** linguist-vendored
+public/** linguist-vendored
