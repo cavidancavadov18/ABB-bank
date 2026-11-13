@@ -19,6 +19,7 @@ export const media = {
         en: "Start saving for your child's future today!",
       },
       cta: { az: "Ətraflı", en: "Details" },
+      href: "/ferdi/emanetler/usaq-yigim-emaneti",
       gradient: "linear-gradient(135deg, #0ea5e9 0%, #2563eb 55%, #1d4ed8 100%)",
     },
     {
@@ -34,6 +35,7 @@ export const media = {
         en: "Stand with Qarabag FK. Every purchase, every match, every win!",
       },
       cta: { az: "Sifariş edin", en: "Order now" },
+      href: "/ferdi/kartlar/debet-kartlari",
       gradient: "linear-gradient(135deg, #111827 0%, #1e3a8a 55%, #1b63ed 100%)",
     },
     {
@@ -49,6 +51,7 @@ export const media = {
         en: "Update ABB mobile and choose your first ticket now.",
       },
       cta: { az: "Ətraflı", en: "Details" },
+      href: "/xeberler/iticket-artiq-abb-mobile-da",
       gradient: "linear-gradient(135deg, #7c3aed 0%, #4f46e5 50%, #2563eb 100%)",
     },
     {
@@ -64,6 +67,7 @@ export const media = {
         en: "Order Alpha Card for your child and activate the kids profile.",
       },
       cta: { az: "Ətraflı", en: "Details" },
+      href: "/abb-mobile",
       gradient: "linear-gradient(135deg, #06b6d4 0%, #3b82f6 55%, #6366f1 100%)",
     },
     {
@@ -79,6 +83,7 @@ export const media = {
         en: "Plan your trip directly in ABB mobile.",
       },
       cta: { az: "Ətraflı", en: "Details" },
+      href: "/ferdi/digitravel",
       gradient: "linear-gradient(135deg, #0284c7 0%, #1d4ed8 55%, #312e81 100%)",
     },
     {
@@ -94,6 +99,7 @@ export const media = {
         en: "Spend and earn real rewards",
       },
       cta: { az: "Sifariş edin", en: "Order now" },
+      href: "/ferdi/kartlar/debet-kartlari",
       gradient: "linear-gradient(135deg, #1e293b 0%, #1b63ed 60%, #0ea5e9 100%)",
     },
     {
@@ -106,6 +112,7 @@ export const media = {
       },
       desc: { az: "Artıq xidmətinizdədir!", en: "Now at your service!" },
       cta: { az: "ABB mobile", en: "ABB mobile" },
+      href: "/abb-mobile",
       gradient: "linear-gradient(135deg, #5b2ee0 0%, #3b5bdb 50%, #1b63ed 100%)",
     },
     {
@@ -121,6 +128,7 @@ export const media = {
         en: "Get up to 70,000 AZN without visiting a branch!",
       },
       cta: { az: "Müraciət edin", en: "Apply" },
+      href: "/ferdi/kreditler/nagd-kredit",
       gradient: "linear-gradient(135deg, #059669 0%, #0d9488 50%, #0369a1 100%)",
     },
     {
@@ -133,6 +141,7 @@ export const media = {
         en: "Now both digital and physical!",
       },
       cta: { az: "İndi sifariş edin", en: "Order now" },
+      href: "/ferdi/kartlar/debet-kartlari",
       gradient: "linear-gradient(135deg, #7c3aed 0%, #4f46e5 50%, #2563eb 100%)",
     },
     {
@@ -145,6 +154,7 @@ export const media = {
         en: "Earn 6% annual income on your account balance.",
       },
       cta: { az: "DigiHesab Max", en: "DigiHesab Max" },
+      href: "/ferdi/butun-hesablar/digihesab-max",
       gradient: "linear-gradient(135deg, #6d28d9 0%, #4f46e5 50%, #2563eb 100%)",
     },
   ],

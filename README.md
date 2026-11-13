@@ -1,12 +1,13 @@
 # ABB Bank Demo Clone
 
-Unofficial Next.js portfolio clone of [abb-bank.az](https://abb-bank.az/) with AZ/EN localization, dark theme, admin panel, and ~95 product/section pages.
+Unofficial portfolio clone of [abb-bank.az](https://abb-bank.az/) with AZ/EN localization, dark theme, admin panel, and ~95 product/section pages.
 
 > Not affiliated with ABB. Demo only — no real banking operations.
 
 ## Stack
 
-- Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4
+- **Backend:** Python (FastAPI) — FX rates, chat, applications, admin API
+- **Frontend:** Next.js 16 (App Router) · React 19 · Tailwind CSS 4
 - Leaflet (branches/ATM map) · JSON content store · cookie HMAC admin auth
 
 ## Features
@@ -21,23 +22,28 @@ Unofficial Next.js portfolio clone of [abb-bank.az](https://abb-bank.az/) with A
 - Dark / light theme
 - Admin: `/admin` — news, messages, applications, users, settings
 
-## Run
+## Run (Docker — recommended)
 
 ```bash
-npm install
-cp .env.example .env.local   # set ADMIN_SESSION_SECRET for production
-npm run dev
+docker compose up --build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) (redirects to `/az`).
+- Site: [http://localhost:3000](http://localhost:3000)
+- Python API: [http://localhost:8000/health](http://localhost:8000/health)
+- Admin: [http://localhost:3000/admin](http://localhost:3000/admin) — `admin` / `admin`
 
-Admin: [http://localhost:3000/admin](http://localhost:3000/admin) — default `admin` / `admin`.
-
-## Production
+## Local frontend + Python API
 
 ```bash
-npm run build
-npm start
+# terminal 1 — backend
+cd backend
+pip install -r requirements.txt
+uvicorn app.main:app --reload --port 8000
+
+# terminal 2 — frontend (proxies /api → :8000)
+npm install
+set API_INTERNAL_URL=http://127.0.0.1:8000
+npm run dev
 ```
 
 Set a strong `ADMIN_SESSION_SECRET` and change the default admin password before any public deploy.
@@ -54,9 +60,11 @@ Set a strong `ADMIN_SESSION_SECRET` and change the default admin password before
 | `/az/filiallar` | Branches & ATMs |
 | `/az/investorlarla-elaqe` | Investors |
 | `/admin` | Admin panel |
+| `/api/*` | Python FastAPI backend (proxied) |
 
 ## Content data
 
+- `backend/` — Python FastAPI API
 - `src/lib/data/sectionPages.json` — product/section content
 - `src/lib/data/megaMenu.ts` — navigation
 - `src/lib/data/news.ts` + `newsBodies.ts` — news

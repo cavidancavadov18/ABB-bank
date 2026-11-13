@@ -13,6 +13,7 @@ export const campaigns = [
       en: "A rewarding campaign for football fans from ABB",
     },
     color: "from-emerald-500 to-teal-700",
+    href: "/ferdi/kampaniyalar",
   },
   {
     id: "c2",
@@ -25,6 +26,7 @@ export const campaigns = [
       en: "Rate discount and commission-free cash loan when you refinance with ABB",
     },
     color: "from-blue-500 to-indigo-700",
+    href: "/ferdi/kreditler/nagd-kredit",
   },
   {
     id: "c3",
@@ -37,6 +39,7 @@ export const campaigns = [
       en: "Pay only 10% of the property value as a down payment!",
     },
     color: "from-lime-500 to-green-700",
+    href: "/ferdi/kreditler/ipoteka-krediti",
   },
   {
     id: "c4",
@@ -49,6 +52,7 @@ export const campaigns = [
       en: 'Enjoy an exclusive summer experience at "Sea Breeze Marina"',
     },
     color: "from-sky-500 to-blue-800",
+    href: "/ferdi/digitravel",
   },
 ];
 

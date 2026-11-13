@@ -12,9 +12,24 @@ type Props = {
 
 export function CareSection({ locale, dict }: Props) {
   const cards = [
-    { title: dict.home.care1Title, desc: dict.home.care1Desc, image: media.care[0] },
-    { title: dict.home.care2Title, desc: dict.home.care2Desc, image: media.care[1] },
-    { title: dict.home.care3Title, desc: dict.home.care3Desc, image: media.care[2] },
+    {
+      title: dict.home.care1Title,
+      desc: dict.home.care1Desc,
+      image: media.care[0],
+      href: `/${locale}/ferdi/butun-hesablar`,
+    },
+    {
+      title: dict.home.care2Title,
+      desc: dict.home.care2Desc,
+      image: media.care[1],
+      href: `/${locale}/ferdi/emanetler/digideposit`,
+    },
+    {
+      title: dict.home.care3Title,
+      desc: dict.home.care3Desc,
+      image: media.care[2],
+      href: `/${locale}/haqqimizda/siyasetlerimiz`,
+    },
   ];
 
   return (
@@ -36,7 +51,7 @@ export function CareSection({ locale, dict }: Props) {
               <h3 className="text-[18px] font-semibold text-abb-ink">{card.title}</h3>
               <p className="mt-2 text-[14px] leading-relaxed text-abb-muted">{card.desc}</p>
               <Link
-                href={`/${locale}/haqqimizda`}
+                href={card.href}
                 className="link-blue mt-4 inline-flex items-center gap-1 transition hover:gap-2"
               >
                 {dict.home.more}

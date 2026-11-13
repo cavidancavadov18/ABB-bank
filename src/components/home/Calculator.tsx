@@ -60,6 +60,12 @@ export function Calculator({ locale, dict }: Props) {
   }, [amount, term, rate, tab, dict, locale]);
 
   const cfg = calculatorDefaults[tab === "auto" ? "auto" : tab];
+  const continueHref = {
+    credit: `/${locale}/ferdi/kreditler/nagd-kredit`,
+    deposit: `/${locale}/ferdi/emanetler/digideposit`,
+    auto: `/${locale}/ferdi/kreditler/avtomobil-krediti`,
+    mortgage: `/${locale}/ferdi/kreditler/ipoteka-krediti`,
+  }[tab];
 
   return (
     <section className="container-abb py-8">
@@ -128,7 +134,7 @@ export function Calculator({ locale, dict }: Props) {
                 {formatMoney(result.secondary)} AZN
               </p>
             </div>
-            <Link href={`/${locale}/ferdi`} className="btn-white mt-8 w-full">
+            <Link href={continueHref} className="btn-white mt-8 w-full">
               {dict.home.continue}
             </Link>
           </div>

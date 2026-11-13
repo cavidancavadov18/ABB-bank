@@ -56,7 +56,7 @@ export function Campaigns({ locale, dict }: Props) {
           {campaigns.map((item, i) => (
             <Link
               key={item.id}
-              href={`/${locale}/xeberler`}
+              href={`/${locale}${item.href}`}
               className="card-soft card-live min-w-[90%] overflow-hidden sm:min-w-[48%]"
             >
               <div className="relative h-48 overflow-hidden bg-abb-surface">

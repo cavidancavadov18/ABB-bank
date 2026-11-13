@@ -1,15 +1,31 @@
 services:
+  api:
+    build: ./backend
+    environment:
+      ADMIN_SESSION_SECRET: ${ADMIN_SESSION_SECRET:-abb-admin-demo-secret-2026}
+      ADMIN_STORE_PATH: /app/data/admin/store.json
+      NODE_ENV: production
+    volumes:
+      - admin-data:/app/data/admin
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+
   web:
-    build: .
+    build:
+      context: .
+      args:
+        API_INTERNAL_URL: http://api:8000
     ports:
       - "3000:3000"
     environment:
       NODE_ENV: production
       HOSTNAME: 0.0.0.0
       PORT: 3000
+      API_INTERNAL_URL: http://api:8000
       ADMIN_SESSION_SECRET: ${ADMIN_SESSION_SECRET:-abb-admin-demo-secret-2026}
-    volumes:
-      - admin-data:/app/data/admin
+    depends_on:
+      - api
     restart: unless-stopped
 
 volumes:

@@ -1,0 +1,11 @@
+# GitHub language stats: show Python backend, hide frontend TypeScript/JS
+*.ts linguist-detectable=false
+*.tsx linguist-detectable=false
+*.js linguist-detectable=false
+*.mjs linguist-detectable=false
+*.css linguist-detectable=false
+*.json linguist-detectable=false
+
+backend/** linguist-detectable=true
+*.py linguist-language=Python
+*.py linguist-detectable=true

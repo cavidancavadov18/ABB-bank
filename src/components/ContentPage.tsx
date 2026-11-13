@@ -19,6 +19,16 @@ type Props = {
   parentLabel?: string;
 };
 
+function ctaTarget(locale: Locale, cta: string) {
+  const text = cta
+    .toLocaleLowerCase("az")
+    .normalize("NFD")
+    .replace(/\u0307/g, "");
+  if (text.includes("investor")) return `/${locale}/investorlarla-elaqe`;
+  if (text.includes("hesab")) return `/${locale}/ferdi/butun-hesablar`;
+  return `/${locale}/abb-mobile`;
+}
+
 function titleFromSlug(slug: string) {
   return slug
     .split("-")
@@ -83,7 +93,7 @@ export function ContentPage({
     ? page.ctaHref.startsWith("http")
       ? page.ctaHref
       : `/${locale}${page.ctaHref}`
-    : `/${locale}/abb-mobile`;
+    : ctaTarget(locale, page.cta);
 
   const cards = page.cards
     .slice(0, isPeoplePage ? 16 : 8)

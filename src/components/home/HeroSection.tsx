@@ -91,7 +91,7 @@ export function HeroSection({ locale, dict }: Props) {
               <p className="mt-3 max-w-md text-[16px] text-white/90 md:text-[18px]">
                 {slide.desc[locale]}
               </p>
-              <Link href={`/${locale}/ferdi`} className="btn-white mt-6">
+              <Link href={`/${locale}${slide.href}`} className="btn-white mt-6">
                 {slide.cta[locale]}
               </Link>
             </div>
